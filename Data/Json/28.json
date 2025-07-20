@@ -1,0 +1,120 @@
+{
+  "title": "Review on Laser-Induced Fluorescence Techniques for Water Quality Monitoring",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1. Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. Fundamentals of Laser-Induced Fluorescence",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Physical Principles",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.2 Instrumentation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.3 Types of Fluorescent Probes",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. LIF for Organic Pollutants",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Detection of Hydrocarbons",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Fluorescence of Dissolved Organic Matter (DOM)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4. LIF for Inorganic Pollutants",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Heavy Metal Detection Using Fluorescent Indicators",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "5. Biological Sensing with LIF",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "5.1 Detection of Pathogens and Bacteria",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "5.2 Monitoring Algae and Cyanobacteria",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "6. Portable and In-situ LIF Devices",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "6.1 Handheld Systems",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "6.2 Fiber-Optic Probes for Remote Sensing",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "7. Challenges and Considerations",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "7.1 Matrix Effects and Quenching",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "7.2 Calibration and Standardization",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "8. Emerging Trends",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "8.1 Integration with Machine Learning",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "8.2 Multimodal Detection Systems",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "9. Conclusion",
+      "page": 10
+    }
+  ]
+}

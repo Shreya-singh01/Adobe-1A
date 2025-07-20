@@ -1,0 +1,195 @@
+{
+  "title": "Current State of Laser-Induced Fluorescence Spectroscopy for Designing Biochemical Sensors",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1. Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. Designing a LIF Detection System",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. Excitation Light Sources",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Arc Lamps",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Tungsten–Halogen Bulbs",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.3 LEDs (Light Emitting Diodes)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.4 Lasers",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "4. Molecular Probes/Tags",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Organic Fluorophores",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "4.2 Quantum Dots (QDs)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "4.3 Antibody and Aptamer Conjugation",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "5. Sample Cell Configurations",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "5.1 Optical Geometries",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "5.2 Microfluidic LIF Systems",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "5.3 Lens and Fiber Integration",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "6. Electrooptical Detector Technologies",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "6.1 Photomultiplier Tubes (PMTs)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "6.2 Avalanche Photodiodes (APDs)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "6.3 Silicon Photomultipliers (SiPMs)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "6.4 Readout and Data Acquisition",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "7. Commercial Availability of LIF Detection Systems",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "7.1 SCIEX 800 Plus",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "7.2 Planar LIF Systems",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "7.3 Picometrics ZetaLIF and CE-LIF-MS",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "8. Modern LIF Technologies",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "8.1 Diode Lasers",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "8.2 Optical Fibers",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "8.3 Integration with Analytical Techniques",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "9. Sensors (Site Characterization and Analysis Penetrometer System)",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "10. Laser-Induced Breakdown Spectroscopy",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "10.1 LIBS Fundamentals",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "10.2 LIBS-LIF Enhancements",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "11. Detection of Viruses in Wastewater Using LIF",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "12. Fluorescence Detection of Transition Metal Oxide Nanoparticles",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "12.1 Biomedical and Environmental Applications",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "12.2 Toxicity and Safety Concerns",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "12.3 Surface Interactions and Imaging Applications",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "13. Conclusion/Future Developments",
+      "page": 15
+    }
+  ]
+}
