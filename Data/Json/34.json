@@ -1,0 +1,120 @@
+{
+  "title": "Biosensors for Environmental Monitoring: Mechanisms, Applications, and Contributions to SDGs",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Mechanisms of Biosensors for Pollutant Detection",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Biological Sensing Elements",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Signaling Elements",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Types of Biosensors and SDG Applications",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Cell-Free Biosensors (DNA, Protein, Aptamer)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Nonspecific Whole-Cell Biosensors",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Genetic Modifications for Pollutant Detection",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Detoxification and Metabolism Genes",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Electrochemical Biosensors for Heavy Metal Detection",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "DNA-Based Electrochemical Transduction",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Wastewater Quality Monitoring",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "SDG Contributions of Biosensors",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Clean Water and Sanitation (SDG 6)",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Responsible Consumption and Production (SDG 12)",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Climate Action (SDG 13)",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Life Below Water (SDG 14)",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Life on Land (SDG 15)",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Conclusions and Future Prospects",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgements",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Funding",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Disclosure Statement",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 17
+    }
+  ]
+}
