@@ -1,5 +1,4 @@
 text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
-<<<<<<< HEAD
 Job Description,12.0,False,1,256.291015625,166.67803955078125,False,True,False,H1
 Interests,12.0,False,1,274.62701416015625,248.83303833007812,False,True,False,H1
 Tasks,12.0,False,1,281.635009765625,330.988037109375,False,True,False,H1
@@ -10,67 +9,3 @@ Education,12.0,False,2,270.95501708984375,508.9270324707031,False,True,False,H1
 School Programs,12.0,False,2,251.6230010986328,633.2330322265625,False,True,False,H1
 Wages,12.0,False,3,278.9649963378906,121.91503143310547,False,True,False,H1
 Job Outlook,12.0,False,3,265.6210021972656,197.9150390625,False,True,False,H1
-=======
-"Broadcast Technicians, page 1 of 3",9.0,False,1,383.333984375,41.754024505615234,False,False,False,body
-A CareerZone Occupational Brief for:Broadcast Technicians,14.0,True,1,70.86599731445312,82.31502532958984,False,False,False,body
-"An occupation in Engineering and TechnologiesNew York State Department of LaborDavid A. Paterson, Governor",9.0,True,1,70.86599731445312,119.79402923583984,False,False,False,body
-Job Description,12.0,False,1,256.291015625,166.67803955078125,False,True,False,H1
-"Set up, operate, and maintain the electronic equipment used to transmit radio and television programs. Controlaudio equipment to regulate volume level and quality of sound during radio and television broadcasts. Operateradio transmitter to broadcast radio and television programs.",9.0,False,1,70.86599731445312,198.89402770996094,False,False,False,body
-Interests,12.0,False,1,274.62701416015625,248.83303833007812,False,True,False,H1
-"Realistic - Realistic occupations frequently involve work activities that include practical, hands-on problems andsolutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many ofthe occupations require working outside, and do not involve a lot of paperwork or working closely with others.",9.0,True,1,70.86599731445312,281.0490417480469,False,False,False,body
-Tasks,12.0,False,1,281.635009765625,330.988037109375,False,True,False,H1
-"1. Maintain programming logs, as required by station management and the Federal CommunicationsCommission.",9.0,True,1,70.86599731445312,363.20404052734375,False,False,True,body
-2. Control audio equipment to regulate the volume and sound quality during radio and television broadcasts.,9.0,True,1,70.86599731445312,399.6010437011719,False,False,True,body
-"3. Monitor strength, clarity, and reliability of incoming and outgoing signals, and adjust equipment as necessary tomaintain quality broadcasts.",9.0,True,1,70.86599731445312,423.9980163574219,False,False,True,body
-"4. Regulate the fidelity, brightness, and contrast of video transmissions, using video console control panels.",9.0,True,1,70.86599731445312,460.39501953125,False,False,True,body
-5. Observe monitors and converse with station personnel to determine audio and video levels and to ascertainthat programs are airing.,9.0,True,1,70.86599731445312,484.7920227050781,False,False,True,body
-6. Preview scheduled programs to ensure that signals are functioning and programs are ready for transmission.,9.0,True,1,70.86599731445312,521.1890258789062,False,False,True,body
-"7. Select sources from which programming will be received, or through which programming will be transmitted.",9.0,True,1,70.86599731445312,545.5860595703125,False,False,True,body
-"8. Report equipment problems, ensure that repairs are made, and make emergency repairs to equipment whennecessary and possible.",9.0,True,1,70.86599731445312,569.9830322265625,False,False,True,body
-"9. Record sound onto tape or film for radio or television, checking its quality and making adjustments wherenecessary.",9.0,True,1,70.86599731445312,606.3800659179688,False,False,True,body
-10. Align antennae with receiving dishes to obtain the clearest signal for transmission of broadcasts from fieldlocations.,9.0,True,1,70.86599731445312,642.7770385742188,False,False,True,body
-11. Substitute programs in cases where signals fail.,9.0,True,1,70.86599731445312,679.174072265625,False,False,True,body
-Skills,12.0,False,1,283.63897705078125,705.113037109375,False,True,False,body
-"Operation Monitoring - Watching gauges, dials, or other indicators to make sure a machine is working properly.",9.0,True,1,70.86599731445312,737.3290405273438,False,False,False,body
-Reading Comprehension - Understanding written sentences and paragraphs in work related documents.,9.0,True,1,70.86599731445312,761.72607421875,False,False,False,body
-Operation and Control - Controlling operations of equipment or systems.,9.0,True,1,70.86599731445312,786.123046875,False,False,False,body
-"Broadcast Technicians, page 2 of 3",9.0,False,2,383.333984375,41.754024505615234,False,False,False,body
-Troubleshooting - Determining causes of operating errors and deciding what to do about it.,9.0,True,2,70.86599731445312,83.77302551269531,False,False,False,body
-"Active Listening - Giving full attention to what other people are saying, taking time to understand the pointsbeing made, asking questions as appropriate, and not interrupting at inappropriate times.",9.0,True,2,70.86599731445312,108.29202270507812,False,False,False,body
-Active Learning - Understanding the implications of new information for both current and future problem-solvingand decision-making.,9.0,True,2,70.86599731445312,144.81101989746094,False,False,False,body
-"Critical Thinking - Using logic and reasoning to identify the strengths and weaknesses of alternative solutions,conclusions or approaches to problems.",9.0,True,2,70.86599731445312,181.3300323486328,False,False,False,body
-Knowledge,12.0,False,2,267.95501708984375,219.39102172851562,False,True,False,H1
-"Telecommunications - Knowledge of transmission, broadcasting, switching, control, and operation oftelecommunications systems.",9.0,True,2,70.86599731445312,251.7520294189453,False,False,False,body
-"Communications and Media - Knowledge of media production, communication, and dissemination techniquesand methods. This includes alternative ways to inform and entertain via written, oral, and visual media.",9.0,True,2,70.86599731445312,288.2710266113281,False,False,False,body
-"Computers and Electronics - Knowledge of circuit boards, processors, chips, electronic equipment, andcomputer hardware and software, including applications and programming.",9.0,True,2,70.86599731445312,324.7900390625,False,False,False,body
-"English Language - Knowledge of the structure and content of the English language including the meaning andspelling of words, rules of composition, and grammar.",9.0,True,2,70.86599731445312,361.30902099609375,False,False,False,body
-"Engineering and Technology - Knowledge of the practical application of engineering science and technology.This includes applying principles, techniques, procedures, and equipment to the design and production of variousgoods and services.",9.0,True,2,70.86599731445312,397.8280334472656,False,False,False,body
-"Education and Training - Knowledge of principles and methods for curriculum and training design, teaching andinstruction for individuals and groups, and the measurement of training effects.",9.0,True,2,70.86599731445312,446.3470153808594,False,False,False,H1
-"Mechanical - Knowledge of machines and tools, including their designs, uses, repair, and maintenance.",9.0,True,2,70.86599731445312,482.86602783203125,False,False,False,body
-Education,12.0,False,2,270.95501708984375,508.9270324707031,False,True,False,H1
-Job Zone Three: Medium Preparation Needed,9.0,True,2,70.86599731445312,541.3330078125,False,True,False,body
-"Education:Most occupations in this zone require training in vocational schools, related on-the-job experience, oran associate's degree. Some may require a bachelor's degree.",9.0,True,2,70.86599731445312,562.2300415039062,False,False,False,H1
-Training: Employees in these occupations usually need one or two years of training involving both on-the-jobexperience and informal training with experienced workers.,9.0,True,2,70.86599731445312,595.1720581054688,False,False,False,body
-School Programs,12.0,False,2,251.6230010986328,633.2330322265625,False,True,False,H1
-"Communications Technology/Technician. - A program that generally prepares individuals to function asworkers and managers within communications industries. Includes instruction in business economics; basicmanagement; principles of interpersonal and mediated communications; radio, television, and digital mediaproduction; and related aspects of technology and communications systems.",9.0,True,2,70.86599731445312,665.5940551757812,False,False,False,body
-"Radio and Television Broadcasting Technology/Technician. - A program that prepares individuals to applytechnical knowledge and skills to the production of radio and television programs, and related operations, underthe supervision of broadcast and studio managers, directors, editors, and producers. Includes instruction insound, lighting, and camera operation and maintenance; power and feed control; studio operations; productionpreparation; broadcast engineering; related computer applications; and specialized applications such as news,entertainment, live talk, sports, commercials, and taping.",9.0,True,2,70.86599731445312,726.113037109375,False,False,False,body
-"Broadcast Technicians, page 3 of 3",9.0,False,3,383.333984375,41.754024505615234,False,False,False,body
-"Audiovisual Communications Technologies/Technicians, Other. - Any instructional program in audiovisualcommunications technologies not listed above.",9.0,True,3,70.86599731445312,83.77302551269531,False,False,False,body
-Wages,12.0,False,3,278.9649963378906,121.91503143310547,False,True,False,H1
-In NY the average wage for this occupation was:,9.0,False,3,70.86599731445312,154.37303161621094,False,False,False,body
-"$33,030 for entry level workers, and $65,350 for experienced workers.",9.0,False,3,70.86599731445312,175.37303161621094,False,False,False,body
-Job Outlook,12.0,False,3,265.6210021972656,197.9150390625,False,True,False,H1
-"Based on the total number of annual openings and its growth rate, the employment prospects for this occupationare described as Favorable.",9.0,False,3,70.86599731445312,230.37303161621094,False,False,False,body
-"In 2006, employment for Broadcast Technicians in NY was: 3,630.",9.0,False,3,70.86599731445312,263.373046875,False,False,False,body
-"It is anticipated that in the year 2016, employment in this area will number 3,930. There will be an increase of 30new positions annually (0.01%). In addition, 120 jobs per year (0.03%) will become available due to employeeturnover.",9.0,False,3,70.86599731445312,284.373046875,False,False,False,body
-Similar Jobs,12.0,False,3,264.96697998046875,334.5150146484375,False,True,False,body
-"Computer Support Specialists - Provide technical assistance to computer system users. Answer questions orresolve computer problems for clients in person, via telephone or from remote location. May provide assistanceconcerning the use of computer hardware and software, including printing, installation, word processing,electronic mail, and operating systems.",9.0,True,3,70.86599731445312,366.9730224609375,False,False,False,body
-"Network Systems and Data Communications Analysts - Analyze, design, test, and evaluate network systems,such as local area networks (LAN), wide area networks (WAN), Internet, intranet, and other data communicationssystems. Perform network modeling, analysis, and planning. Research and recommend network and datacommunications hardware and software. Includes telecommunications specialists who deal with the interfacing ofcomputer and communications equipment. May supervise computer programmers.",9.0,True,3,70.86599731445312,427.5730285644531,False,False,False,body
-Radio Operators - Receive and transmit communications using radiotelegraph or radiotelephone equipment inaccordance with government regulations. May repair equipment.,9.0,True,3,70.86599731445312,500.17303466796875,False,False,False,body
-"Sound Engineering Technicians - Operate machines and equipment to record, synchronize, mix, or reproducemusic, voices, or sound effects in sporting arenas, theater productions, recording studios, or movie and videoproductions.",9.0,True,3,70.86599731445312,536.7730712890625,False,False,False,body
-"Film and Video Editors - Edit motion picture soundtracks, film, and video.",9.0,True,3,70.86599731445312,585.373046875,False,False,False,body
-"Telecommunications Equipment Installers and Repairers, Except Line Installers - Set-up, rearrange,or remove switching and dialing equipment used in central offices. Service or repair telephones and othercommunication equipment on customers' property. May install equipment in new locations or install wiring andtelephone jacks in buildings under construction.",9.0,True,3,70.86599731445312,609.9730834960938,False,False,False,body
-"Electronic Home Entertainment Equipment Installers and Repairers - Repair, adjust, or install audio ortelevision receivers, stereo systems, camcorders, video systems, or other electronic home entertainmentequipment.",9.0,True,3,70.86599731445312,670.5730590820312,False,False,False,body
-"Telecommunications Line Installers and Repairers - String and repair telephone and television cable,including fiber optics and other equipment for transmitting messages or television programming.",9.0,True,3,70.86599731445312,719.1730346679688,False,False,False,body
-Nuclear Power Reactor Operators - Control nuclear reactors.,9.0,True,3,70.86599731445312,755.7730712890625,False,False,False,body
->>>>>>> e445125f3f063e3282945fa7c7c637c4f1f50377

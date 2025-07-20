@@ -1,17 +1,1 @@
-<<<<<<< HEAD
 
-=======
-text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
-7,11.04,False,1,302.5199890136719,748.888671875,False,True,True,body
-92-9393-9494-9595-9696-9797-9898-9999-0000-0101-02,12.0,True,1,125.04000091552734,616.2598876953125,False,True,True,body
-"231,668",9.96,True,1,126.36000061035156,233.2662353515625,False,True,True,body
-"236,774 240,448 243,097 245,252 244,403 244,623 245,142 245,694 246,405",9.96,True,1,167.63999938964844,206.9862060546875,False,True,True,body
-0,12.0,True,1,104.5199966430664,598.8599853515625,False,True,True,body
-"50,000",12.0,True,1,74.27999877929688,521.9400024414062,False,True,True,body
-"100,000",12.0,True,1,67.55999755859375,444.8999938964844,False,True,True,body
-"150,000",12.0,True,1,67.55999755859375,367.97998046875,False,True,True,body
-"200,000",12.0,True,1,67.55999755859375,290.9399719238281,False,True,True,body
-"250,000",12.0,True,1,67.55999755859375,214.0199432373047,False,True,True,body
-Idaho Public School Fall Membership,20.04,True,1,210.0,94.06381225585938,False,True,False,body
-Fall enrollment as of the last Friday in SeptemberFall enrollment as of the first Friday in November,12.0,False,1,177.1199951171875,670.7399291992188,False,False,False,body
->>>>>>> e445125f3f063e3282945fa7c7c637c4f1f50377
