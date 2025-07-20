@@ -1,0 +1,170 @@
+{
+  "title": "Analytical Evaluation of Signal-to-Noise Ratios for Avalanche and Single-Photon Avalanche Diodes",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Analytical Evaluation of Signal-to-Noise Ratios for Avalanche and Single-Photon Avalanche Diodes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Abstract",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Model and Method",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Time-Dependent Signals from APDs",
+      "page": 2
+    },
+    {
+      "level": "H4",
+      "text": "APD Noise Sources",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "APD Noise Sources Including Readout Circuitry",
+      "page": 3
+    },
+    {
+      "level": "H4",
+      "text": "APD SNR",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Single-Photon Counting Using SPADs",
+      "page": 5
+    },
+    {
+      "level": "H4",
+      "text": "SPAD Noise Sources",
+      "page": 6
+    },
+    {
+      "level": "H4",
+      "text": "Photon Detection Statistics and Operation Modes",
+      "page": 7
+    },
+    {
+      "level": "H4",
+      "text": "SPAD Histogram SNR for Time-Dependent Signals",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Analytic Comparison of APD and SPAD Performances",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "General Comparison of Signal-to-Noise Ratios",
+      "page": 9
+    },
+    {
+      "level": "H4",
+      "text": "Table 1. SPAD parameters",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Figure 3. SNR for a single pixel SPAD and APD detector",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Table 2. Common parameters for ranging scenario",
+      "page": 10
+    },
+    {
+      "level": "H4",
+      "text": "Table 3. APD Parameters",
+      "page": 11
+    },
+    {
+      "level": "H4",
+      "text": "Figure 4. Behavior of the SPAD detector for higher multi-event levels",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Multi Pixel Detectors",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Figure 5. Comparison case for a single pixel APD detector and a SPAD detector",
+      "page": 13
+    },
+    {
+      "level": "H4",
+      "text": "Figure 6. SNR = 3 contours of the multi pixel SPAD detector",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Figure 7. SNR from (30) for constant event rates",
+      "page": 14
+    },
+    {
+      "level": "H4",
+      "text": "Figure 8. Contour lines for receiver performance",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Discussion and Outlook",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Author Contributions",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Funding",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Institutional Review Board Statement",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Informed Consent Statement",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Data Availability Statement",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgments",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Conflicts of Interest",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 17
+    }
+  ]
+}

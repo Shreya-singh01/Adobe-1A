@@ -1,0 +1,55 @@
+{
+  "title": "In Situ Crosslinked Biodegradable Hydrogels Based on Poly(Ethylene Glycol) and Poly(ε-Lysine) for Medical Application",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "In Situ Crosslinked Biodegradable Hydrogels Based on Poly(Ethylene Glycol) and Poly(ε-Lysine) for Medical Application",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Abstract",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 1. Photo of the dual-chamber syringe equipped with a helical mixing head",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "FT-IR Spectra",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Materials and Methods",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Results and Discussion",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Characterization of PEG/PL Hydrogels",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Conclusions",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 9
+    }
+  ]
+}

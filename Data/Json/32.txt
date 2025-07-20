@@ -1,0 +1,85 @@
+{
+  "title": "Metal oxide nanomaterial-based sensors for monitoring environmental NO₂ and its impact on the plant ecosystem: a review",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Metal oxide nanomaterial-based sensors for monitoring environmental NO₂ and its impact on the plant ecosystem: a review",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Effects of NO₂ on the plant ecosystem",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 3. Concentration (C) of C. paronosis leaves exposed to 6 µL L⁻¹ NO₂ for various durations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Sensor Technology",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Gas Sensing Mechanism of MOS-based Sensors",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Oxidizing Gas Response",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Table 2. Summary of various NMOS based NO₂ gas sensors with their sensing parameters",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Table 2. (continued)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 7. Log scale I-V curves and resistance response during cyclic exposure",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 8. Schematic of the flow process for the SnO₂/BNNTs sensor",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 9. FESEM image and gas responses of SnO₂/BNNTs sensor",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "NMOS Fabrication",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgements",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Declaration of Competing Interest",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 17
+    }
+  ]
+}
