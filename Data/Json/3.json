@@ -1,0 +1,10 @@
+{
+  "title": "Data Incident Management",
+  "outline": [
+    { "level": "H1", "text": "WHAT IS A DATA INCIDENT IN HUMANITARIAN RESPONSE?", "page": 1 },
+    { "level": "H1", "text": "DEFINITIONS AND FRAMEWORKS FOR UNDERSTANDING DATA INCIDENTS", "page": 2 },
+    { "level": "H1", "text": "RISK MODELS", "page": 3 },
+    { "level": "H1", "text": "STEPS IN DATA INCIDENT MANAGEMENT", "page": 4 },
+    { "level": "H1", "text": "RECOMMENDATIONS FOR IMPROVING DATA INCIDENT MANAGEMENT", "page": 5 }
+  ]
+}
