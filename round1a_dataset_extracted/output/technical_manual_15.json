@@ -1,0 +1,180 @@
+{
+    "title": "Technical Manual: Blockchain Implementation Guide",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Table of Contents",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "1. Introduction",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "1.1 Purpose",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "1.2 Scope",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "1.3 Definitions",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "1.3.1 Technical Terms",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "1.3.2 Abbreviations",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "2. System Overview",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "2.1 Architecture",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Components",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "2.2.1 Core Components",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "2.2.2 Supporting Components",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "3. Installation",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "3.1 Prerequisites",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "3.2 Installation Steps",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "3.2.1 Step 1: Download",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "3.2.2 Step 2: Configure",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "3.2.3 Step 3: Test",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "4. Configuration",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "4.1 Basic Configuration",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "4.2 Advanced Settings",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "4.2.1 Performance Tuning",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "4.2.2 Security Settings",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "5. Usage",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "5.1 Getting Started",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "5.2 Common Operations",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "5.2.1 Basic Operations",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "5.2.2 Advanced Features",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "6. Troubleshooting",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "6.1 Common Issues",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "6.2 Error Codes",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "7. Maintenance",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "7.1 Regular Maintenance",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "7.2 Backup Procedures",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Index",
+            "page": 3
+        }
+    ]
+}

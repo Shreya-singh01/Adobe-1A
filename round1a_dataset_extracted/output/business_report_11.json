@@ -1,0 +1,140 @@
+{
+    "title": "Apple Annual Report 2024",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Executive Summary",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "1. Company Overview",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "1.1 Business Model",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "1.2 Market Position",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "1.2.1 Competitive Analysis",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "1.2.2 Market Share",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "2. Financial Performance",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "2.1 Revenue Analysis",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Profitability Metrics",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "2.2.1 Gross Margin",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "2.2.2 Operating Margin",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "2.3 Cash Flow",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "3. Strategic Initiatives",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "3.1 Digital Transformation",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "3.2 Market Expansion",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "3.2.1 Geographic Expansion",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "3.2.2 Product Diversification",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "3.3 Innovation",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "4. Risk Assessment",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "4.1 Market Risks",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "4.2 Operational Risks",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "4.2.1 Supply Chain Risks",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "4.2.2 Technology Risks",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "5. Outlook and Projections",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "5.1 Growth Projections",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "5.2 Investment Plans",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Appendices",
+            "page": 3
+        }
+    ]
+}
