@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "input_documents": [
+      "business_apple_2023.pdf",
+      "business_microsoft_2023.pdf",
+      "business_google_2023.pdf"
+    ],
+    "persona": {
+      "role": "Investment Analyst",
+      "expertise": "Financial analysis, market research, competitive intelligence",
+      "focus_areas": "Revenue trends, R&D investments, market positioning"
+    },
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies of major tech companies to identify investment opportunities and competitive advantages",
+    "processing_timestamp": "2025-07-21T04:56:06.387099"
+  },
+  "extracted_sections": [
+    {
+      "document": "business_apple_2023.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "business_apple_2023.pdf",
+      "page_number": 2,
+      "section_title": "Methodology",
+      "importance_rank": 0.88
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "business_apple_2023.pdf",
+      "page_number": 1,
+      "refined_text": "Key concepts and background information relevant to the research topic.",
+      "relevance_score": 0.92
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "input_documents": [
+      "cybersecurity_1.pdf",
+      "cybersecurity_2.pdf"
+    ],
+    "persona": {
+      "role": "Cybersecurity Researcher",
+      "expertise": "Network security, threat intelligence, security architecture",
+      "focus_areas": "Threat detection, AI applications, incident response"
+    },
+    "job_to_be_done": "Analyze current cybersecurity threats and evaluate the role of AI in both threat detection and defense strategies",
+    "processing_timestamp": "2025-07-21T04:56:06.388399"
+  },
+  "extracted_sections": [
+    {
+      "document": "cybersecurity_1.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "cybersecurity_1.pdf",
+      "page_number": 2,
+      "section_title": "Methodology",
+      "importance_rank": 0.88
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "cybersecurity_1.pdf",
+      "page_number": 1,
+      "refined_text": "Key concepts and background information relevant to the research topic.",
+      "relevance_score": 0.92
+    }
+  ]
+}

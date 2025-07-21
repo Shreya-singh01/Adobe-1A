@@ -1,0 +1,19 @@
+{
+  "test_case_id": "marketing_33",
+  "persona": {
+    "role": "Marketing Specialist",
+    "expertise": "Expertise in marketing",
+    "focus_areas": "Focus areas in marketing"
+  },
+  "job_to_be_done": "Assess marketing performance and trends",
+  "documents": [
+    "marketing_digital_10.pdf",
+    "marketing_digital_6.pdf",
+    "marketing_digital_7.pdf",
+    "marketing_digital_5.pdf",
+    "marketing_digital_4.pdf",
+    "marketing_digital_1.pdf",
+    "marketing_digital_3.pdf"
+  ],
+  "domain": "Marketing"
+}

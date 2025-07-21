@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_4",
+  "persona": {
+    "role": "ML Engineer",
+    "expertise": "Model deployment, MLOps, production systems",
+    "focus_areas": "Scalable ML systems, model monitoring, A/B testing"
+  },
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on recent advances in deep learning for computer vision and NLP",
+  "documents": [],
+  "domain": "Machine Learning"
+}

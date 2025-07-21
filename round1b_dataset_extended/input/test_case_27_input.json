@@ -1,0 +1,19 @@
+{
+  "test_case_id": "finance_27",
+  "persona": {
+    "role": "Finance Specialist",
+    "expertise": "Expertise in finance",
+    "focus_areas": "Focus areas in finance"
+  },
+  "job_to_be_done": "Assess finance performance and trends",
+  "documents": [
+    "finance_jpmorgan_2023.pdf",
+    "finance_wells_fargo_2023.pdf",
+    "finance_mastercard_2023.pdf",
+    "finance_bofa_2023.pdf",
+    "finance_visa_2023.pdf",
+    "finance_blackrock_2023.pdf",
+    "finance_citi_2023.pdf"
+  ],
+  "domain": "Finance"
+}

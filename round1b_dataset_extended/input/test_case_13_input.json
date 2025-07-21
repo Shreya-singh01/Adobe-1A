@@ -1,0 +1,19 @@
+{
+  "test_case_id": "business_analysis_13",
+  "persona": {
+    "role": "Business Consultant",
+    "expertise": "Strategy development, process optimization, change management",
+    "focus_areas": "Business transformation, operational efficiency, market entry"
+  },
+  "job_to_be_done": "Analyze tech company performance and strategies to identify investment opportunities and market trends",
+  "documents": [
+    "business_microsoft_2023.pdf",
+    "business_nvidia_2023.pdf",
+    "business_amazon_2023.pdf",
+    "business_netflix_2023.pdf",
+    "business_meta_2023.pdf",
+    "business_google_2023.pdf",
+    "business_tesla_2023.pdf"
+  ],
+  "domain": "Business Analysis"
+}

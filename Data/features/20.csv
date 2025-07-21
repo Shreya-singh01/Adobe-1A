@@ -1,0 +1,9 @@
+text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
+Table 2. CQD photodetectors advantages and disadvantages in comparison with single crystalQD photodetectors.,9.0,True,21,166.96900939941406,434.9193420410156,False,False,False,H3
+"Author Contributions: Conceptualization, A.R., P.M.; writing—Original draft preparation, A.R.,P.M., M.K. and W.H.; writing—Review and editing, A.R., P.M., M.K. and W.H.; visualization, A.R.,P.M., M.K. and W.H.; supervision, A.R. and P.M.; project administration, A.R., P.M. and M.K.; fundingacquisition, A.R., P.M. and M.K. All authors have read and agreed to the published version ofthe manuscript.",8.99,True,24,166.9149932861328,461.5363464355469,False,False,False,H2
+"Funding: This research was funded by the Polish National Science Centre:, grant number OPUS-UMO-018/31/B/ST7/01541, HARMONIA-UMO-2018/30/M/ST7/00174, OPUS-UMO-2017/27/B/ST7/01507 and UMO-2019/33/B/ST7/00614.",8.97,True,24,167.26499938964844,526.0943603515625,False,False,False,H2
+Institutional Review Board Statement: Not applicable.,8.97,True,24,167.26499938964844,567.2203369140625,False,False,False,H2
+Informed Consent Statement: Not applicable.,8.97,True,24,167.26498413085938,584.914306640625,False,False,False,H2
+Data Availability Statement: The data presented in this study are available on request from thecorresponding author.,9.0,True,24,167.26498413085938,602.6072998046875,False,False,False,H2
+Abbreviations,9.96,True,24,166.87599182128906,679.233154296875,False,True,False,H2
+References,9.96,True,26,36.0,98.21119689941406,False,True,False,H2

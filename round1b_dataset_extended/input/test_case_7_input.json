@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_7",
+  "persona": {
+    "role": "Data Scientist",
+    "expertise": "Statistical analysis, predictive modeling, data visualization",
+    "focus_areas": "Feature engineering, model validation, business intelligence"
+  },
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on recent advances in deep learning for computer vision and NLP",
+  "documents": [],
+  "domain": "Machine Learning"
+}

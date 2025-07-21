@@ -1,0 +1,11 @@
+{
+  "test_case_id": "environmental_29",
+  "persona": {
+    "role": "Environmental Specialist",
+    "expertise": "Expertise in environmental",
+    "focus_areas": "Focus areas in environmental"
+  },
+  "job_to_be_done": "Evaluate environmental strategies and their effectiveness",
+  "documents": [],
+  "domain": "Environmental"
+}

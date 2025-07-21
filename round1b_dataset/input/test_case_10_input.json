@@ -1,0 +1,14 @@
+{
+  "test_case_id": "cybersecurity_expert",
+  "persona": {
+    "role": "Cybersecurity Researcher",
+    "expertise": "Network security, threat intelligence, security architecture",
+    "focus_areas": "Threat detection, AI applications, incident response"
+  },
+  "job_to_be_done": "Analyze current cybersecurity threats and evaluate the role of AI in both threat detection and defense strategies",
+  "documents": [
+    "cybersecurity_1.pdf",
+    "cybersecurity_2.pdf"
+  ],
+  "domain": "Cybersecurity Research"
+}

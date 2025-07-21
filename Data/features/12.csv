@@ -1,0 +1,11 @@
+text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
+Job Description,12.0,False,1,256.291015625,166.67803955078125,False,True,False,H1
+Interests,12.0,False,1,274.62701416015625,248.83303833007812,False,True,False,H1
+Tasks,12.0,False,1,281.635009765625,330.988037109375,False,True,False,H1
+Knowledge,12.0,False,2,267.95501708984375,219.39102172851562,False,True,False,H1
+"Education and Training - Knowledge of principles and methods for curriculum and training design, teaching andinstruction for individuals and groups, and the measurement of training effects.",9.0,True,2,70.86599731445312,446.3470153808594,False,False,False,H1
+Education,12.0,False,2,270.95501708984375,508.9270324707031,False,True,False,H1
+"Education:Most occupations in this zone require training in vocational schools, related on-the-job experience, oran associate's degree. Some may require a bachelor's degree.",9.0,True,2,70.86599731445312,562.2300415039062,False,False,False,H1
+School Programs,12.0,False,2,251.6230010986328,633.2330322265625,False,True,False,H1
+Wages,12.0,False,3,278.9649963378906,121.91503143310547,False,True,False,H1
+Job Outlook,12.0,False,3,265.6210021972656,197.9150390625,False,True,False,H1

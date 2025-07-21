@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_8",
+  "persona": {
+    "role": "Data Scientist",
+    "expertise": "Statistical analysis, predictive modeling, data visualization",
+    "focus_areas": "Feature engineering, model validation, business intelligence"
+  },
+  "job_to_be_done": "Analyze the latest developments in neural network optimization techniques and their applications in production systems",
+  "documents": [],
+  "domain": "Machine Learning"
+}

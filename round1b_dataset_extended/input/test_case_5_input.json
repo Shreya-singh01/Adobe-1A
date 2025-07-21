@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_5",
+  "persona": {
+    "role": "ML Engineer",
+    "expertise": "Model deployment, MLOps, production systems",
+    "focus_areas": "Scalable ML systems, model monitoring, A/B testing"
+  },
+  "job_to_be_done": "Analyze the latest developments in neural network optimization techniques and their applications in production systems",
+  "documents": [],
+  "domain": "Machine Learning"
+}

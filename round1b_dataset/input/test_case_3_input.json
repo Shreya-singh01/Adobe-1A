@@ -1,0 +1,15 @@
+{
+  "test_case_id": "chemistry_student",
+  "persona": {
+    "role": "Undergraduate Chemistry Student",
+    "expertise": "Basic chemistry concepts, laboratory techniques",
+    "focus_areas": "Organic chemistry, reaction mechanisms, spectroscopy"
+  },
+  "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on organic chemistry, focusing on reaction mechanisms and spectroscopic analysis techniques",
+  "documents": [
+    "chemistry_organic_1.pdf",
+    "chemistry_organic_2.pdf",
+    "chemistry_organic_3.pdf"
+  ],
+  "domain": "Educational Content"
+}

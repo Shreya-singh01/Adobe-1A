@@ -1,0 +1,19 @@
+{
+  "test_case_id": "legal_36",
+  "persona": {
+    "role": "Legal Specialist",
+    "expertise": "Expertise in legal",
+    "focus_areas": "Focus areas in legal"
+  },
+  "job_to_be_done": "Assess legal performance and trends",
+  "documents": [
+    "legal_patent_10.pdf",
+    "legal_patent_8.pdf",
+    "legal_patent_9.pdf",
+    "legal_patent_1.pdf",
+    "legal_patent_2.pdf",
+    "legal_patent_3.pdf",
+    "legal_patent_7.pdf"
+  ],
+  "domain": "Legal"
+}

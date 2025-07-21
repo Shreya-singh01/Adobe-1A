@@ -1,0 +1,8 @@
+text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
+The role of various etching time in Si nanostructures for ultra-high sensitivity photodetector,13.45,False,1,39.00469970703125,158.41537475585938,False,False,False,H1
+A R T I C L E  I N F O,6.97,False,1,39.00469970703125,257.83245849609375,True,True,False,H2
+A B S T R A C T,6.97,False,1,197.7449951171875,257.83245849609375,True,True,False,H2
+"Fig. 2. XRD patterns of the c-Si (left) and PS with different etching time (a) 6 min, (b) 9 min, (c) 12 min, (d) 15 min, (e) 18 min and (f) 21 min, current density 20 mA/cm2.",6.78,True,3,39.00469970703125,218.58912658691406,False,False,False,H3
+Fig. 4. PL spectra of PS at various etching times.,7.17,True,4,192.92599487304688,228.90809631347656,False,False,False,H3
+Declaration of Competing Interest,7.97,True,9,39.00634765625,192.0094451904297,False,False,False,H2
+References,7.97,True,9,39.00634765625,236.28573608398438,False,True,False,H2

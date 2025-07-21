@@ -1,0 +1,11 @@
+{
+  "test_case_id": "environmental_30",
+  "persona": {
+    "role": "Environmental Specialist",
+    "expertise": "Expertise in environmental",
+    "focus_areas": "Focus areas in environmental"
+  },
+  "job_to_be_done": "Assess environmental performance and trends",
+  "documents": [],
+  "domain": "Environmental"
+}

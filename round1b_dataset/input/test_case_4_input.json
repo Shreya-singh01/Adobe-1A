@@ -1,0 +1,14 @@
+{
+  "test_case_id": "healthcare_researcher",
+  "persona": {
+    "role": "Drug Discovery Researcher",
+    "expertise": "Computational chemistry, molecular biology, pharmacology",
+    "focus_areas": "AI applications, computational modeling, drug design"
+  },
+  "job_to_be_done": "Evaluate the current state of AI applications in drug discovery, focusing on computational approaches and their potential to accelerate the drug development process",
+  "documents": [
+    "healthcare_ai_drug_1.pdf",
+    "healthcare_ai_drug_2.pdf"
+  ],
+  "domain": "Healthcare Research"
+}

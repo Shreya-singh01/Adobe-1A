@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "input_documents": [
+      "supply_chain_1.pdf",
+      "supply_chain_2.pdf"
+    ],
+    "persona": {
+      "role": "Supply Chain Analyst",
+      "expertise": "Logistics, inventory management, operations research",
+      "focus_areas": "Supply chain optimization, risk management, sustainability"
+    },
+    "job_to_be_done": "Evaluate supply chain optimization strategies and assess challenges in global supply chain management, with focus on resilience and sustainability",
+    "processing_timestamp": "2025-07-21T04:56:06.388268"
+  },
+  "extracted_sections": [
+    {
+      "document": "supply_chain_1.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "supply_chain_1.pdf",
+      "page_number": 2,
+      "section_title": "Methodology",
+      "importance_rank": 0.88
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "supply_chain_1.pdf",
+      "page_number": 1,
+      "refined_text": "Key concepts and background information relevant to the research topic.",
+      "relevance_score": 0.92
+    }
+  ]
+}

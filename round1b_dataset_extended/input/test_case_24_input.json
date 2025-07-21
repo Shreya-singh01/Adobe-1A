@@ -1,0 +1,19 @@
+{
+  "test_case_id": "healthcare_24",
+  "persona": {
+    "role": "Healthcare Specialist",
+    "expertise": "Expertise in healthcare",
+    "focus_areas": "Focus areas in healthcare"
+  },
+  "job_to_be_done": "Assess healthcare performance and trends",
+  "documents": [
+    "healthcare_ai_drug_5.pdf",
+    "healthcare_ai_drug_4.pdf",
+    "healthcare_ai_drug_6.pdf",
+    "healthcare_ai_drug_7.pdf",
+    "healthcare_ai_drug_3.pdf",
+    "healthcare_ai_drug_2.pdf",
+    "healthcare_ai_drug_1.pdf"
+  ],
+  "domain": "Healthcare"
+}

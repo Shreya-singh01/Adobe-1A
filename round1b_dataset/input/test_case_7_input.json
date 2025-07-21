@@ -1,0 +1,14 @@
+{
+  "test_case_id": "marketing_manager",
+  "persona": {
+    "role": "Digital Marketing Manager",
+    "expertise": "Digital marketing, consumer behavior, analytics",
+    "focus_areas": "Social media marketing, e-commerce, consumer psychology"
+  },
+  "job_to_be_done": "Develop insights into current digital marketing trends and consumer behavior patterns to optimize marketing strategies for e-commerce platforms",
+  "documents": [
+    "marketing_digital_1.pdf",
+    "marketing_digital_2.pdf"
+  ],
+  "domain": "Marketing Research"
+}

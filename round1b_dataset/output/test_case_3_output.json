@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "input_documents": [
+      "chemistry_organic_1.pdf",
+      "chemistry_organic_2.pdf",
+      "chemistry_organic_3.pdf"
+    ],
+    "persona": {
+      "role": "Undergraduate Chemistry Student",
+      "expertise": "Basic chemistry concepts, laboratory techniques",
+      "focus_areas": "Organic chemistry, reaction mechanisms, spectroscopy"
+    },
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on organic chemistry, focusing on reaction mechanisms and spectroscopic analysis techniques",
+    "processing_timestamp": "2025-07-21T04:56:06.387282"
+  },
+  "extracted_sections": [
+    {
+      "document": "chemistry_organic_1.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "chemistry_organic_1.pdf",
+      "page_number": 2,
+      "section_title": "Methodology",
+      "importance_rank": 0.88
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "chemistry_organic_1.pdf",
+      "page_number": 1,
+      "refined_text": "Key concepts and background information relevant to the research topic.",
+      "relevance_score": 0.92
+    }
+  ]
+}

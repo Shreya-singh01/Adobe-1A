@@ -1,0 +1,6 @@
+text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
+Maximisation of signal-to-noise ratio in infrared radiation receivers,10.0,False,4,52.014129638671875,52.42854690551758,False,False,False,H2
+Fig. 8. Detection system with synchronic integration of a signal.,9.0,False,5,179.9752960205078,291.0554504394531,False,False,False,H3
+Fig. 9. Block diagram of a photoreceiver for laser rangefinder operating within the eye-safe range.,9.0,False,5,117.51529693603516,752.8139038085938,False,False,False,H3
+Fig. 12. Block diagram of a new receiver for pyroelectric detector.,9.0,False,6,175.65139770507812,753.1884155273438,False,False,False,H3
+Table 1. Parameters of infrared detectors.,9.0,False,7,221.90139770507812,83.59780883789062,False,False,False,H2

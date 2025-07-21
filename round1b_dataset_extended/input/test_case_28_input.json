@@ -1,0 +1,11 @@
+{
+  "test_case_id": "environmental_28",
+  "persona": {
+    "role": "Environmental Specialist",
+    "expertise": "Expertise in environmental",
+    "focus_areas": "Focus areas in environmental"
+  },
+  "job_to_be_done": "Analyze environmental documents and extract relevant information",
+  "documents": [],
+  "domain": "Environmental"
+}

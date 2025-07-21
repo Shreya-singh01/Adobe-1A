@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "input_documents": [
+      "healthcare_ai_drug_1.pdf",
+      "healthcare_ai_drug_2.pdf"
+    ],
+    "persona": {
+      "role": "Drug Discovery Researcher",
+      "expertise": "Computational chemistry, molecular biology, pharmacology",
+      "focus_areas": "AI applications, computational modeling, drug design"
+    },
+    "job_to_be_done": "Evaluate the current state of AI applications in drug discovery, focusing on computational approaches and their potential to accelerate the drug development process",
+    "processing_timestamp": "2025-07-21T04:56:06.387406"
+  },
+  "extracted_sections": [
+    {
+      "document": "healthcare_ai_drug_1.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "healthcare_ai_drug_1.pdf",
+      "page_number": 2,
+      "section_title": "Methodology",
+      "importance_rank": 0.88
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "healthcare_ai_drug_1.pdf",
+      "page_number": 1,
+      "refined_text": "Key concepts and background information relevant to the research topic.",
+      "relevance_score": 0.92
+    }
+  ]
+}

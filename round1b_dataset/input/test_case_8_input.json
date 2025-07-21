@@ -1,0 +1,14 @@
+{
+  "test_case_id": "legal_researcher",
+  "persona": {
+    "role": "Intellectual Property Lawyer",
+    "expertise": "Patent law, copyright law, technology law",
+    "focus_areas": "Software patents, digital copyright, IP litigation"
+  },
+  "job_to_be_done": "Research current legal challenges in intellectual property law, particularly focusing on software patents and digital copyright issues in the technology sector",
+  "documents": [
+    "legal_patent_1.pdf",
+    "legal_patent_2.pdf"
+  ],
+  "domain": "Legal Research"
+}

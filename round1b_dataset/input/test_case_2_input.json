@@ -1,0 +1,15 @@
+{
+  "test_case_id": "business_analyst_tech",
+  "persona": {
+    "role": "Investment Analyst",
+    "expertise": "Financial analysis, market research, competitive intelligence",
+    "focus_areas": "Revenue trends, R&D investments, market positioning"
+  },
+  "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies of major tech companies to identify investment opportunities and competitive advantages",
+  "documents": [
+    "business_apple_2023.pdf",
+    "business_microsoft_2023.pdf",
+    "business_google_2023.pdf"
+  ],
+  "domain": "Business Analysis"
+}

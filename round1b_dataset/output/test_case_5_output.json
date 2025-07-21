@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "input_documents": [
+      "finance_jpmorgan_2023.pdf",
+      "finance_bofa_2023.pdf"
+    ],
+    "persona": {
+      "role": "Financial Analyst",
+      "expertise": "Financial modeling, risk assessment, market analysis",
+      "focus_areas": "Banking sector performance, digital transformation, risk management"
+    },
+    "job_to_be_done": "Assess the financial performance and strategic initiatives of major banking institutions, with focus on digital transformation and risk management practices",
+    "processing_timestamp": "2025-07-21T04:56:06.387536"
+  },
+  "extracted_sections": [
+    {
+      "document": "finance_jpmorgan_2023.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "finance_jpmorgan_2023.pdf",
+      "page_number": 2,
+      "section_title": "Methodology",
+      "importance_rank": 0.88
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "finance_jpmorgan_2023.pdf",
+      "page_number": 1,
+      "refined_text": "Key concepts and background information relevant to the research topic.",
+      "relevance_score": 0.92
+    }
+  ]
+}

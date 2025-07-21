@@ -1,0 +1,14 @@
+{
+  "test_case_id": "environmental_scientist",
+  "persona": {
+    "role": "Environmental Scientist",
+    "expertise": "Climate science, renewable energy, environmental policy",
+    "focus_areas": "Climate change impacts, mitigation strategies, renewable technologies"
+  },
+  "job_to_be_done": "Analyze climate change impacts and evaluate renewable energy technologies for developing comprehensive mitigation strategies",
+  "documents": [
+    "environment_climate_1.pdf",
+    "environment_climate_2.pdf"
+  ],
+  "domain": "Environmental Science"
+}

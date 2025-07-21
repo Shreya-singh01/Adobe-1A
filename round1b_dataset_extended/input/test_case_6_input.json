@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_6",
+  "persona": {
+    "role": "ML Engineer",
+    "expertise": "Model deployment, MLOps, production systems",
+    "focus_areas": "Scalable ML systems, model monitoring, A/B testing"
+  },
+  "job_to_be_done": "Evaluate transfer learning approaches and their effectiveness across different domains and tasks",
+  "documents": [],
+  "domain": "Machine Learning"
+}

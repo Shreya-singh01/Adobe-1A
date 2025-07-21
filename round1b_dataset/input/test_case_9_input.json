@@ -1,0 +1,14 @@
+{
+  "test_case_id": "supply_chain_analyst",
+  "persona": {
+    "role": "Supply Chain Analyst",
+    "expertise": "Logistics, inventory management, operations research",
+    "focus_areas": "Supply chain optimization, risk management, sustainability"
+  },
+  "job_to_be_done": "Evaluate supply chain optimization strategies and assess challenges in global supply chain management, with focus on resilience and sustainability",
+  "documents": [
+    "supply_chain_1.pdf",
+    "supply_chain_2.pdf"
+  ],
+  "domain": "Supply Chain Management"
+}

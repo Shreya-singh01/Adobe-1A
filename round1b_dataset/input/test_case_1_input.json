@@ -1,0 +1,15 @@
+{
+  "test_case_id": "academic_research_ml",
+  "persona": {
+    "role": "PhD Researcher in Machine Learning",
+    "expertise": "Deep learning, computer vision, natural language processing",
+    "focus_areas": "Neural network architectures, optimization techniques, transfer learning"
+  },
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on recent advances in deep learning for computer vision and NLP, with emphasis on architectural innovations and optimization strategies",
+  "documents": [
+    "ml_research_1.pdf",
+    "ml_research_2.pdf",
+    "ml_research_3.pdf"
+  ],
+  "domain": "Academic Research"
+}

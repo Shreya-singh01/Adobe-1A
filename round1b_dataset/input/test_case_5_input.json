@@ -1,0 +1,14 @@
+{
+  "test_case_id": "financial_analyst_banking",
+  "persona": {
+    "role": "Financial Analyst",
+    "expertise": "Financial modeling, risk assessment, market analysis",
+    "focus_areas": "Banking sector performance, digital transformation, risk management"
+  },
+  "job_to_be_done": "Assess the financial performance and strategic initiatives of major banking institutions, with focus on digital transformation and risk management practices",
+  "documents": [
+    "finance_jpmorgan_2023.pdf",
+    "finance_bofa_2023.pdf"
+  ],
+  "domain": "Financial Analysis"
+}

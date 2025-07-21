@@ -1,0 +1,155 @@
+{
+  "title": "Laser-Induced Fluorescence Spectroscopy for Detection of Water Pollutants",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1. Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. Fundamentals of LIF",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Fluorescence Principles",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.2 Instrumentation and Setup",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.3 Excitation Sources",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.4 Detection Systems",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3. Applications of LIF in Water Pollutant Detection",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Detection of Organic Compounds",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.1.1 Polycyclic Aromatic Hydrocarbons (PAHs)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.1.2 Pesticides and Herbicides",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Detection of Heavy Metals",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.2.1 Fluorescent Tagging",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.2.2 Quenching Mechanisms",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "3.3 Detection of Biological Contaminants",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3.3.1 Bacteria and Viruses",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3.3.2 Algal Blooms",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "4. Advances in LIF Technology",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Portable LIF Devices",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "4.2 Integration with Remote Sensing",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "4.3 Multispectral and Hyperspectral LIF",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "5. Case Studies",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "5.1 River Pollution Monitoring",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "5.2 Industrial Discharge Detection",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "5.3 Coastal Water Surveillance",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "6. Limitations and Challenges",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "6.1 Interference from Natural Fluorescence",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "6.2 Sensitivity and Specificity",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "6.3 Regulatory and Standardization Issues",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "7. Future Perspectives",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "8. Conclusion",
+      "page": 11
+    }
+  ]
+}

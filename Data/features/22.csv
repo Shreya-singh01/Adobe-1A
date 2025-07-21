@@ -1,0 +1,13 @@
+text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
+1. Introduction,9.96,True,1,167.26499938964844,448.75518798828125,False,True,True,H1
+2. Designing a LIF Detection System,9.96,True,3,167.26499938964844,320.42315673828125,False,False,True,H1
+3. Excitation Light Sources,9.96,True,4,167.26499938964844,484.6632080078125,False,True,True,H1
+4. Molecular Probes/Tags,9.96,True,5,167.26499938964844,547.42822265625,False,True,True,H1
+5. Sample Cell Conﬁgurations,9.96,True,7,167.26499938964844,98.21119689941406,False,True,True,H1
+6. Electrooptical Detector Technologies,9.96,True,8,167.26499938964844,459.55718994140625,False,True,True,H1
+7. Commercial Availability of LIF Detection Systems,9.96,True,9,167.26499938964844,371.68621826171875,False,False,True,H1
+8. Modern LIF Technologies,9.96,True,10,167.26499938964844,296.36822509765625,False,False,True,H1
+10. Laser-Induced Breakdown Spectroscopy,9.96,True,11,167.26498413085938,158.2862091064453,False,True,True,H1
+11. Detection of Viruses in Wastewater Using LIF,9.96,True,12,167.26499938964844,98.21119689941406,False,False,True,H1
+12. Fluorescence Detection of Transition Metal Oxide Nanoparticles,9.96,True,12,167.26499938964844,299.35723876953125,False,False,True,H1
+13. Conclusion/Future Developments,9.96,True,15,167.26502990722656,566.813232421875,False,True,True,H1

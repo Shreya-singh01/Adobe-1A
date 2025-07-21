@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_3",
+  "persona": {
+    "role": "PhD Researcher in Machine Learning",
+    "expertise": "Deep learning, computer vision, natural language processing",
+    "focus_areas": "Neural network architectures, optimization techniques, transfer learning"
+  },
+  "job_to_be_done": "Evaluate transfer learning approaches and their effectiveness across different domains and tasks",
+  "documents": [],
+  "domain": "Machine Learning"
+}

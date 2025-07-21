@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_1",
+  "persona": {
+    "role": "PhD Researcher in Machine Learning",
+    "expertise": "Deep learning, computer vision, natural language processing",
+    "focus_areas": "Neural network architectures, optimization techniques, transfer learning"
+  },
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on recent advances in deep learning for computer vision and NLP",
+  "documents": [],
+  "domain": "Machine Learning"
+}

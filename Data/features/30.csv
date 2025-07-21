@@ -1,0 +1,5 @@
+text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
+Supporting Information,11.5,True,8,48.18899917602539,350.40838623046875,False,True,False,H1
+Supporting Information is available from the Wiley Online Library or from the author.,8.0,False,8,48.18899917602539,368.8888854980469,False,False,False,H1
+Acknowledgements,11.5,True,8,48.18899917602539,412.40838623046875,False,True,False,H1
+Conflict of Interest,11.5,True,8,48.18899917602539,500.5856018066406,False,False,False,H1

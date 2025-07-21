@@ -1,0 +1,19 @@
+{
+  "test_case_id": "chemistry_19",
+  "persona": {
+    "role": "Chemistry Specialist",
+    "expertise": "Expertise in chemistry",
+    "focus_areas": "Focus areas in chemistry"
+  },
+  "job_to_be_done": "Analyze chemistry documents and extract relevant information",
+  "documents": [
+    "chemistry_organic_8.pdf",
+    "chemistry_organic_9.pdf",
+    "chemistry_organic_2.pdf",
+    "chemistry_organic_3.pdf",
+    "chemistry_organic_1.pdf",
+    "chemistry_organic_4.pdf",
+    "chemistry_organic_5.pdf"
+  ],
+  "domain": "Chemistry"
+}

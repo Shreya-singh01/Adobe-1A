@@ -1,0 +1,19 @@
+{
+  "test_case_id": "supply_chain_39",
+  "persona": {
+    "role": "Supply Chain Specialist",
+    "expertise": "Expertise in supply chain",
+    "focus_areas": "Focus areas in supply chain"
+  },
+  "job_to_be_done": "Assess supply chain performance and trends",
+  "documents": [
+    "supply_chain_4.pdf",
+    "supply_chain_5.pdf",
+    "supply_chain_7.pdf",
+    "supply_chain_6.pdf",
+    "supply_chain_2.pdf",
+    "supply_chain_3.pdf",
+    "supply_chain_1.pdf"
+  ],
+  "domain": "Supply Chain"
+}

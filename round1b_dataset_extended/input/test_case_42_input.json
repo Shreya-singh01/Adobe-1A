@@ -1,0 +1,19 @@
+{
+  "test_case_id": "cybersecurity_42",
+  "persona": {
+    "role": "Cybersecurity Specialist",
+    "expertise": "Expertise in cybersecurity",
+    "focus_areas": "Focus areas in cybersecurity"
+  },
+  "job_to_be_done": "Assess cybersecurity performance and trends",
+  "documents": [
+    "cybersecurity_7.pdf",
+    "cybersecurity_6.pdf",
+    "cybersecurity_4.pdf",
+    "cybersecurity_5.pdf",
+    "cybersecurity_1.pdf",
+    "cybersecurity_2.pdf",
+    "cybersecurity_3.pdf"
+  ],
+  "domain": "Cybersecurity"
+}

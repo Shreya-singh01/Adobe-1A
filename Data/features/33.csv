@@ -1,0 +1,6 @@
+text,font_size,bold,page,x,y,is_upper,is_title_case,is_numbered,label
+"Author Contributions: Conceptualization, T.M. and N.X.; Data curation, A.M. and G.F.; Software, J.Y.and R.C.; Validation, J.S.; Formal analysis, X.S. and T.M.; Investigation, T.M.; Resources, N.X. and X.S.;Writing—original draft preparation, X.S.; Writing—review and editing, T.M. and X.S.; Supervision,N.X. and J.S. All authors have read and agreed to the published version of the manuscript.",8.92,True,23,165.94500732421875,126.62052917480469,False,False,False,H2
+Funding: This research was partially financed by the National Key Research and DevelopmentProgram of China Project (project ID: 2022YFF0708801) and financed by the Fujian Provincial NaturalScience Foundation Project (project ID: Z2024J01131776).,8.99,True,23,166.3939971923828,179.33551025390625,False,False,False,H2
+Data Availability Statement: Data are available upon reasonable request from the corresponding author.,8.88,True,23,166.3939971923828,220.5918426513672,False,False,False,H2
+Conflicts of Interest: The authors declare no conflicts of interest.,8.97,True,23,166.3939971923828,238.22036743164062,False,False,False,H2
+References,9.96,True,23,35.71598815917969,259.9122314453125,False,True,False,H2

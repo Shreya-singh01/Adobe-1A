@@ -1,0 +1,11 @@
+{
+  "test_case_id": "machine_learning_2",
+  "persona": {
+    "role": "PhD Researcher in Machine Learning",
+    "expertise": "Deep learning, computer vision, natural language processing",
+    "focus_areas": "Neural network architectures, optimization techniques, transfer learning"
+  },
+  "job_to_be_done": "Analyze the latest developments in neural network optimization techniques and their applications in production systems",
+  "documents": [],
+  "domain": "Machine Learning"
+}
