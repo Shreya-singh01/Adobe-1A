@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "input_documents": [
+      "historian_primary_source_diocletian's_price_edict.pdf",
+      "historian_barbarian_invasions_and_economic_disruption.pdf",
+      "historian_coinage_debasement_and_inflation.pdf",
+      "historian_land_ownership_and_agricultural_crisis.pdf",
+      "historian_military_spending_and_state_finance.pdf",
+      "historian_the_economy_of_the_roman_empire.pdf",
+      "historian_archaeological_evidence_of_trade_routes.pdf",
+      "historian_scholarly_debate_on_the_fall_of_rome.pdf",
+      "historian_the_role_of_slavery_in_roman_production.pdf"
+    ],
+    "persona": "Historian specializing in the Roman Empire",
+    "job_to_be_done": "Analyze sources on the economic factors leading to the fall of the Western Roman Empire.",
+    "processing_timestamp": "2025-07-21T09:02:03Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "historian_archaeological_evidence_of_trade_routes.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Coinage Debasement and Inflation",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "historian_scholarly_debate_on_the_fall_of_rome.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: The Role of Slavery in Roman Production",
+      "importance_rank": 0.96
+    },
+    {
+      "document": "historian_archaeological_evidence_of_trade_routes.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Primary Source: Diocletian's Price Edict",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "historian_archaeological_evidence_of_trade_routes.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: The Role of Slavery in Roman Production",
+      "importance_rank": 0.89
+    },
+    {
+      "document": "historian_barbarian_invasions_and_economic_disruption.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Barbarian Invasions and Economic Disruption",
+      "importance_rank": 0.88
+    },
+    {
+      "document": "historian_primary_source_diocletian's_price_edict.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Barbarian Invasions and Economic Disruption",
+      "importance_rank": 0.86
+    },
+    {
+      "document": "historian_land_ownership_and_agricultural_crisis.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Archaeological Evidence of Trade Routes",
+      "importance_rank": 0.85
+    },
+    {
+      "document": "historian_scholarly_debate_on_the_fall_of_rome.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Primary Source: Diocletian's Price Edict",
+      "importance_rank": 0.81
+    },
+    {
+      "document": "historian_the_role_of_slavery_in_roman_production.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Barbarian Invasions and Economic Disruption",
+      "importance_rank": 0.81
+    },
+    {
+      "document": "historian_coinage_debasement_and_inflation.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Coinage Debasement and Inflation",
+      "importance_rank": 0.8
+    },
+    {
+      "document": "historian_the_economy_of_the_roman_empire.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: The Economy of the Roman Empire",
+      "importance_rank": 0.77
+    },
+    {
+      "document": "historian_military_spending_and_state_finance.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Land Ownership and Agricultural Crisis",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "historian_primary_source_diocletian's_price_edict.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Coinage Debasement and Inflation",
+      "importance_rank": 0.71
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "historian_primary_source_diocletian's_price_edict.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Barbarian Invasions and Economic Disruption",
+      "relevance_score": 0.96
+    },
+    {
+      "document": "historian_military_spending_and_state_finance.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Land Ownership and Agricultural Crisis",
+      "relevance_score": 0.94
+    },
+    {
+      "document": "historian_land_ownership_and_agricultural_crisis.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Archaeological Evidence of Trade Routes",
+      "relevance_score": 0.93
+    },
+    {
+      "document": "historian_the_economy_of_the_roman_empire.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into The Economy of the Roman Empire",
+      "relevance_score": 0.91
+    },
+    {
+      "document": "historian_the_role_of_slavery_in_roman_production.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Barbarian Invasions and Economic Disruption",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "historian_barbarian_invasions_and_economic_disruption.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Barbarian Invasions and Economic Disruption",
+      "relevance_score": 0.86
+    },
+    {
+      "document": "historian_coinage_debasement_and_inflation.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Coinage Debasement and Inflation",
+      "relevance_score": 0.85
+    },
+    {
+      "document": "historian_archaeological_evidence_of_trade_routes.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Primary Source",
+      "relevance_score": 0.83
+    }
+  ]
+}

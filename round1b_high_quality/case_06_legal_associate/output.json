@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "input_documents": [
+      "legal_associate_international_patent_law_comparison.pdf",
+      "legal_associate_guidelines_for_drafting_patent_claims.pdf",
+      "legal_associate_biotechnology_patent_trends.pdf",
+      "legal_associate_precedents_in_patent_infringement.pdf",
+      "legal_associate_analysis_of_software_patent_eligibility.pdf",
+      "legal_associate_ip_due_diligence_in_m&a.pdf",
+      "legal_associate_case_law_summary_alice_corp._v._cls_bank.pdf"
+    ],
+    "persona": "Junior Legal Associate",
+    "job_to_be_done": "Find precedents related to intellectual property law in software patents.",
+    "processing_timestamp": "2025-07-21T09:01:59Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "legal_associate_ip_due_diligence_in_m&a.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: International Patent Law Comparison",
+      "importance_rank": 0.98
+    },
+    {
+      "document": "legal_associate_international_patent_law_comparison.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Guidelines for Drafting Patent Claims",
+      "importance_rank": 0.94
+    },
+    {
+      "document": "legal_associate_case_law_summary_alice_corp._v._cls_bank.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Biotechnology Patent Trends",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "legal_associate_international_patent_law_comparison.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Open Source Licensing Risks",
+      "importance_rank": 0.89
+    },
+    {
+      "document": "legal_associate_case_law_summary_alice_corp._v._cls_bank.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Biotechnology Patent Trends",
+      "importance_rank": 0.88
+    },
+    {
+      "document": "legal_associate_biotechnology_patent_trends.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: International Patent Law Comparison",
+      "importance_rank": 0.85
+    },
+    {
+      "document": "legal_associate_guidelines_for_drafting_patent_claims.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Case Law Summary: Alice Corp. v. CLS Bank",
+      "importance_rank": 0.83
+    },
+    {
+      "document": "legal_associate_case_law_summary_alice_corp._v._cls_bank.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Trade Secret vs. Patent Protection",
+      "importance_rank": 0.83
+    },
+    {
+      "document": "legal_associate_international_patent_law_comparison.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Guidelines for Drafting Patent Claims",
+      "importance_rank": 0.81
+    },
+    {
+      "document": "legal_associate_guidelines_for_drafting_patent_claims.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Open Source Licensing Risks",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "legal_associate_analysis_of_software_patent_eligibility.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Copyright Law for Code",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "legal_associate_guidelines_for_drafting_patent_claims.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: IP Due Diligence in M&A",
+      "importance_rank": 0.77
+    },
+    {
+      "document": "legal_associate_analysis_of_software_patent_eligibility.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: International Patent Law Comparison",
+      "importance_rank": 0.7
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "legal_associate_international_patent_law_comparison.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Guidelines for Drafting Patent Claims",
+      "relevance_score": 0.95
+    },
+    {
+      "document": "legal_associate_international_patent_law_comparison.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Guidelines for Drafting Patent Claims",
+      "relevance_score": 0.95
+    },
+    {
+      "document": "legal_associate_case_law_summary_alice_corp._v._cls_bank.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Biotechnology Patent Trends",
+      "relevance_score": 0.84
+    },
+    {
+      "document": "legal_associate_case_law_summary_alice_corp._v._cls_bank.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Trade Secret vs. Patent Protection",
+      "relevance_score": 0.84
+    },
+    {
+      "document": "legal_associate_guidelines_for_drafting_patent_claims.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Open Source Licensing Risks",
+      "relevance_score": 0.81
+    }
+  ]
+}

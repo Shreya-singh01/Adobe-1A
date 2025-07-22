@@ -1,0 +1,13 @@
+{
+  "persona": "Data Scientist",
+  "job_to_be_done": "Understand the architecture and training process of large language models for text summarization.",
+  "documents": [
+    "data_scientist_bert_pre-training_of_deep_bidirectional_transformers.pdf",
+    "data_scientist_survey_of_text_summarization_techniques.pdf",
+    "data_scientist_scaling_laws_for_neural_language_models.pdf",
+    "data_scientist_fine-tuning_llms_for_summarization.pdf",
+    "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+    "data_scientist_instruction_tuning_and_rlhf.pdf",
+    "data_scientist_attention_is_all_you_need_(transformers).pdf"
+  ]
+}

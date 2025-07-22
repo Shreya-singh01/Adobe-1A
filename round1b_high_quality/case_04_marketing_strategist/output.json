@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "input_documents": [
+      "marketing_strategist_competitor_a_instagram_engagement_analysis.pdf",
+      "marketing_strategist_target_audience_demographic_study.pdf",
+      "marketing_strategist_influencer_marketing_roi_analysis.pdf",
+      "marketing_strategist_social_media_trends_report_2024.pdf",
+      "marketing_strategist_customer_journey_mapping.pdf",
+      "marketing_strategist_seo_and_content_marketing_synergy.pdf",
+      "marketing_strategist_budget_allocation_for_digital_ads.pdf"
+    ],
+    "persona": "Marketing Strategist",
+    "job_to_be_done": "Evaluate competitor social media strategies to identify opportunities for a new product launch.",
+    "processing_timestamp": "2025-07-21T09:01:58Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "marketing_strategist_influencer_marketing_roi_analysis.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Influencer Marketing ROI Analysis",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "marketing_strategist_seo_and_content_marketing_synergy.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Sentiment Analysis of Brand Mentions",
+      "importance_rank": 0.87
+    },
+    {
+      "document": "marketing_strategist_influencer_marketing_roi_analysis.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: A/B Testing Ad Copy Results",
+      "importance_rank": 0.85
+    },
+    {
+      "document": "marketing_strategist_customer_journey_mapping.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: SEO and Content Marketing Synergy",
+      "importance_rank": 0.8
+    },
+    {
+      "document": "marketing_strategist_target_audience_demographic_study.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Budget Allocation for Digital Ads",
+      "importance_rank": 0.73
+    },
+    {
+      "document": "marketing_strategist_influencer_marketing_roi_analysis.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Competitor B: TikTok Campaign Case Study",
+      "importance_rank": 0.73
+    },
+    {
+      "document": "marketing_strategist_target_audience_demographic_study.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Budget Allocation for Digital Ads",
+      "importance_rank": 0.71
+    },
+    {
+      "document": "marketing_strategist_influencer_marketing_roi_analysis.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Sentiment Analysis of Brand Mentions",
+      "importance_rank": 0.71
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "marketing_strategist_target_audience_demographic_study.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Budget Allocation for Digital Ads",
+      "relevance_score": 0.97
+    },
+    {
+      "document": "marketing_strategist_target_audience_demographic_study.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Budget Allocation for Digital Ads",
+      "relevance_score": 0.95
+    },
+    {
+      "document": "marketing_strategist_influencer_marketing_roi_analysis.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into A/B Testing Ad Copy Results",
+      "relevance_score": 0.89
+    }
+  ]
+}

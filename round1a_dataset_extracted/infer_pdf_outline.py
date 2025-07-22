@@ -14,14 +14,14 @@ import joblib
 import json
 import re
 
-MODEL_PATH = os.path.join(os.path.dirname(__file__), 'header_classifier_xgb_finetuned.model')
-LABEL_ENCODER_PATH = os.path.join(os.path.dirname(__file__), 'header_label_encoder_finetuned.joblib')
+MODEL_PATH = os.path.join(os.path.dirname(__file__), 'header_classifier_xgb.model')
+LABEL_ENCODER_PATH = os.path.join(os.path.dirname(__file__), 'header_label_encoder.joblib')
 
 FEATURE_COLS = [
     'page', 'x0', 'y0', 'x1', 'y1', 'is_all_caps', 'is_title_case', 'is_numbered',
-    'has_colon', 'has_bullet', 'length', 'word_count', 'avg_font_size', 'is_bold', 'is_italic', 
-    'rel_font_size', 'is_centered', 'space_before', 'space_after', 'most_common_font'
+    'has_colon', 'has_bullet', 'length', 'word_count', 'avg_font_size', 'is_bold', 'is_italic', 'most_common_font'
 ]
+CATEGORICAL_COLS = ['most_common_font']
 
 # --- Feature Extraction (same as training) ---
 def extract_features_from_pdf(pdf_path):
@@ -68,7 +68,7 @@ def extract_features_from_pdf(pdf_path):
                     "is_all_caps": is_all_caps, "is_title_case": is_title_case, "is_numbered": is_numbered,
                     "has_colon": has_colon, "has_bullet": has_bullet, "length": length, "word_count": word_count,
                     "avg_font_size": avg_font_size, "is_bold": is_bold, "is_italic": is_italic,
-                    "most_common_font": most_common_font, "rel_font_size": rel_font_size, 
+                    "most_common_font": most_common_font, "rel_font_size": rel_font_size,
                     "is_centered": is_centered, "space_before": space_before, "space_after": space_after
                 })
     return pd.DataFrame(rows)
@@ -77,12 +77,9 @@ def extract_features_from_pdf(pdf_path):
 def predict_headers(df, model, label_encoder):
     font_le = LabelEncoder()
     df['most_common_font'] = font_le.fit_transform(df['most_common_font'].astype(str))
-    
-    # Ensure all columns are present
     for col in FEATURE_COLS:
         if col not in df.columns:
             df[col] = 0
-
     X = df[FEATURE_COLS].values
     y_pred = model.predict(X)
     labels = label_encoder.inverse_transform(y_pred)
@@ -113,7 +110,7 @@ def main():
     if len(sys.argv) < 2:
         print("Usage: python infer_pdf_outline.py <input.pdf> [output.json] [--debug]")
         sys.exit(1)
-    
+
     pdf_path = sys.argv[1]
     output_json = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else pdf_path.replace('.pdf', '_finetuned_outline.json')
     debug_mode = "--debug" in sys.argv

@@ -1,0 +1,13 @@
+{
+  "persona": "Cybersecurity Analyst",
+  "job_to_be_done": "Identify common attack vectors and mitigation strategies for cloud-native applications.",
+  "documents": [
+    "cybersecurity_analyst_owasp_top_10_for_cloud-native_apps.pdf",
+    "cybersecurity_analyst_identity_and_access_management_(iam)_policies.pdf",
+    "cybersecurity_analyst_network_security_in_a_microservices_architecture.pdf",
+    "cybersecurity_analyst_supply_chain_security_(sbom).pdf",
+    "cybersecurity_analyst_kubernetes_security_best_practices.pdf",
+    "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+    "cybersecurity_analyst_log4j_vulnerability_analysis.pdf"
+  ]
+}

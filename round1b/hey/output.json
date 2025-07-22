@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Adobe-1A/round1b/hey/ml_research_1.pdf",
+      "Adobe-1A/round1b/hey/ml_research_2.pdf",
+      "Adobe-1A/round1b/hey/ml_research_3.pdf",
+      "Adobe-1A/round1b/hey/ml_research_4.pdf",
+      "Adobe-1A/round1b/hey/ml_research_5.pdf",
+      "Adobe-1A/round1b/hey/ml_research_6.pdf",
+      "Adobe-1A/round1b/hey/ml_research_7.pdf",
+      "Adobe-1A/round1b/hey/ml_research_8.pdf",
+      "Adobe-1A/round1b/hey/ml_research_9.pdf",
+      "Adobe-1A/round1b/hey/ml_research_10.pdf"
+    ],
+    "persona": "ML engineer",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on recent advances in deep learning for computer vision and NLP",
+    "processing_timestamp": "2025-07-21T10:20:19Z"
+  },
+  "extracted_sections": [],
+  "sub_section_analysis": []
+}

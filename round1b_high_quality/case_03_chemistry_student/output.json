@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "input_documents": [
+      "chemistry_student_photochemistry.pdf",
+      "chemistry_student_computational_chemistry_simulations.pdf",
+      "chemistry_student_organic_chemistry_reaction_mechanisms.pdf",
+      "chemistry_student_transition_state_theory.pdf",
+      "chemistry_student_rate_laws_and_reaction_order.pdf",
+      "chemistry_student_enzyme_kinetics.pdf",
+      "chemistry_student_arrhenius_equation_and_temperature_effects.pdf",
+      "chemistry_student_thermodynamics_vs_kinetics.pdf",
+      "chemistry_student_catalysis_and_catalytic_cycles.pdf"
+    ],
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for an exam on reaction kinetics.",
+    "processing_timestamp": "2025-07-21T09:01:57Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "chemistry_student_computational_chemistry_simulations.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Photochemistry",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "chemistry_student_rate_laws_and_reaction_order.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Catalysis and Catalytic Cycles",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "chemistry_student_arrhenius_equation_and_temperature_effects.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Transition State Theory",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "chemistry_student_thermodynamics_vs_kinetics.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Transition State Theory",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "chemistry_student_organic_chemistry_reaction_mechanisms.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Computational Chemistry Simulations",
+      "importance_rank": 0.93
+    },
+    {
+      "document": "chemistry_student_rate_laws_and_reaction_order.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Arrhenius Equation and Temperature Effects",
+      "importance_rank": 0.93
+    },
+    {
+      "document": "chemistry_student_computational_chemistry_simulations.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Arrhenius Equation and Temperature Effects",
+      "importance_rank": 0.9
+    },
+    {
+      "document": "chemistry_student_transition_state_theory.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Arrhenius Equation and Temperature Effects",
+      "importance_rank": 0.9
+    },
+    {
+      "document": "chemistry_student_thermodynamics_vs_kinetics.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Enzyme Kinetics",
+      "importance_rank": 0.89
+    },
+    {
+      "document": "chemistry_student_catalysis_and_catalytic_cycles.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Industrial Chemical Processes",
+      "importance_rank": 0.88
+    },
+    {
+      "document": "chemistry_student_transition_state_theory.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Arrhenius Equation and Temperature Effects",
+      "importance_rank": 0.86
+    },
+    {
+      "document": "chemistry_student_transition_state_theory.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Organic Chemistry: Reaction Mechanisms",
+      "importance_rank": 0.84
+    },
+    {
+      "document": "chemistry_student_organic_chemistry_reaction_mechanisms.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Thermodynamics vs Kinetics",
+      "importance_rank": 0.8
+    },
+    {
+      "document": "chemistry_student_enzyme_kinetics.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Enzyme Kinetics",
+      "importance_rank": 0.8
+    },
+    {
+      "document": "chemistry_student_rate_laws_and_reaction_order.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Thermodynamics vs Kinetics",
+      "importance_rank": 0.76
+    },
+    {
+      "document": "chemistry_student_rate_laws_and_reaction_order.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Transition State Theory",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "chemistry_student_enzyme_kinetics.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Thermodynamics vs Kinetics",
+      "importance_rank": 0.73
+    },
+    {
+      "document": "chemistry_student_thermodynamics_vs_kinetics.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Thermodynamics vs Kinetics",
+      "importance_rank": 0.71
+    },
+    {
+      "document": "chemistry_student_catalysis_and_catalytic_cycles.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Thermodynamics vs Kinetics",
+      "importance_rank": 0.71
+    },
+    {
+      "document": "chemistry_student_arrhenius_equation_and_temperature_effects.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Rate Laws and Reaction Order",
+      "importance_rank": 0.7
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "chemistry_student_transition_state_theory.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Arrhenius Equation and Temperature Effects",
+      "relevance_score": 0.99
+    },
+    {
+      "document": "chemistry_student_enzyme_kinetics.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Thermodynamics vs Kinetics",
+      "relevance_score": 0.96
+    },
+    {
+      "document": "chemistry_student_transition_state_theory.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Arrhenius Equation and Temperature Effects",
+      "relevance_score": 0.94
+    },
+    {
+      "document": "chemistry_student_organic_chemistry_reaction_mechanisms.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Computational Chemistry Simulations",
+      "relevance_score": 0.92
+    },
+    {
+      "document": "chemistry_student_arrhenius_equation_and_temperature_effects.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Rate Laws and Reaction Order",
+      "relevance_score": 0.9
+    },
+    {
+      "document": "chemistry_student_catalysis_and_catalytic_cycles.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Thermodynamics vs Kinetics",
+      "relevance_score": 0.89
+    },
+    {
+      "document": "chemistry_student_computational_chemistry_simulations.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Photochemistry",
+      "relevance_score": 0.88
+    },
+    {
+      "document": "chemistry_student_rate_laws_and_reaction_order.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Catalysis and Catalytic Cycles",
+      "relevance_score": 0.88
+    },
+    {
+      "document": "chemistry_student_computational_chemistry_simulations.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Arrhenius Equation and Temperature Effects",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "chemistry_student_enzyme_kinetics.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Enzyme Kinetics",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "chemistry_student_catalysis_and_catalytic_cycles.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Industrial Chemical Processes",
+      "relevance_score": 0.84
+    },
+    {
+      "document": "chemistry_student_thermodynamics_vs_kinetics.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Enzyme Kinetics",
+      "relevance_score": 0.81
+    },
+    {
+      "document": "chemistry_student_rate_laws_and_reaction_order.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Transition State Theory",
+      "relevance_score": 0.8
+    }
+  ]
+}

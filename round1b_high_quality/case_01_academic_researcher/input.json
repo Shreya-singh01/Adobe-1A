@@ -1,0 +1,16 @@
+{
+  "persona": "PhD Researcher in Computational Biology",
+  "job_to_be_done": "Prepare a comprehensive literature review on Graph Neural Networks for drug discovery.",
+  "documents": [
+    "academic_researcher_multi-modal_fusion_in_biology.pdf",
+    "academic_researcher_drug_target_identification.pdf",
+    "academic_researcher_interpretable_ai_in_pharma.pdf",
+    "academic_researcher_clinical_trial_analysis_with_gnns.pdf",
+    "academic_researcher_gnn_architectures.pdf",
+    "academic_researcher_quantum_ml_for_drugs.pdf",
+    "academic_researcher_benchmarking_datasets.pdf",
+    "academic_researcher_molecular_representations.pdf",
+    "academic_researcher_protein-ligand_scoring.pdf",
+    "academic_researcher_generative_models_for_molecules.pdf"
+  ]
+}

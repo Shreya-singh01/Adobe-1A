@@ -1,0 +1,13 @@
+{
+  "persona": "Environmental Consultant",
+  "job_to_be_done": "Prepare an environmental impact assessment for a proposed wind farm project.",
+  "documents": [
+    "environmental_consultant_noise_impact_assessment_report.pdf",
+    "environmental_consultant_avian_and_bat_impact_study.pdf",
+    "environmental_consultant_renewable_energy_policy_and_subsidies.pdf",
+    "environmental_consultant_wind_farm_project_proposal_details.pdf",
+    "environmental_consultant_local_ecosystem_and_biodiversity_report.pdf",
+    "environmental_consultant_carbon_footprint_analysis.pdf",
+    "environmental_consultant_public_consultation_feedback_summary.pdf"
+  ]
+}

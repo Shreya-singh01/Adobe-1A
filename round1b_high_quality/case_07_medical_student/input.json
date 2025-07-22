@@ -1,0 +1,16 @@
+{
+  "persona": "Medical Student",
+  "job_to_be_done": "Summarize treatment options for type 2 diabetes from clinical trial reports.",
+  "documents": [
+    "medical_student_managing_comorbidities_in_diabetes.pdf",
+    "medical_student_long-term_cardiovascular_outcomes.pdf",
+    "medical_student_ada_treatment_guidelines_2024.pdf",
+    "medical_student_pharmacokinetics_of_insulin_analogs.pdf",
+    "medical_student_new_drug_application_sglt2_inhibitors.pdf",
+    "medical_student_comparative_study_glp-1_vs_dpp-4.pdf",
+    "medical_student_telemedicine_in_chronic_care.pdf",
+    "medical_student_pediatric_diabetes_treatment.pdf",
+    "medical_student_phase_iii_clinical_trial_metformin_efficacy.pdf",
+    "medical_student_patient_lifestyle_intervention_programs.pdf"
+  ]
+}

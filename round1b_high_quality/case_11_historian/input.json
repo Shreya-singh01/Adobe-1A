@@ -1,0 +1,15 @@
+{
+  "persona": "Historian specializing in the Roman Empire",
+  "job_to_be_done": "Analyze sources on the economic factors leading to the fall of the Western Roman Empire.",
+  "documents": [
+    "historian_primary_source_diocletian's_price_edict.pdf",
+    "historian_barbarian_invasions_and_economic_disruption.pdf",
+    "historian_coinage_debasement_and_inflation.pdf",
+    "historian_land_ownership_and_agricultural_crisis.pdf",
+    "historian_military_spending_and_state_finance.pdf",
+    "historian_the_economy_of_the_roman_empire.pdf",
+    "historian_archaeological_evidence_of_trade_routes.pdf",
+    "historian_scholarly_debate_on_the_fall_of_rome.pdf",
+    "historian_the_role_of_slavery_in_roman_production.pdf"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "persona": "Undergraduate Chemistry Student",
+  "job_to_be_done": "Identify key concepts and mechanisms for an exam on reaction kinetics.",
+  "documents": [
+    "chemistry_student_photochemistry.pdf",
+    "chemistry_student_computational_chemistry_simulations.pdf",
+    "chemistry_student_organic_chemistry_reaction_mechanisms.pdf",
+    "chemistry_student_transition_state_theory.pdf",
+    "chemistry_student_rate_laws_and_reaction_order.pdf",
+    "chemistry_student_enzyme_kinetics.pdf",
+    "chemistry_student_arrhenius_equation_and_temperature_effects.pdf",
+    "chemistry_student_thermodynamics_vs_kinetics.pdf",
+    "chemistry_student_catalysis_and_catalytic_cycles.pdf"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "persona": "Product Manager for a SaaS tool",
+  "job_to_be_done": "Gather user feedback and feature requests from customer support tickets and survey results.",
+  "documents": [
+    "product_manager_user_journey_analytics_for_onboarding.pdf",
+    "product_manager_usability_testing_feedback_compilation.pdf",
+    "product_manager_annual_user_satisfaction_survey_results.pdf",
+    "product_manager_q2_customer_support_ticket_analysis.pdf",
+    "product_manager_competitive_feature_matrix.pdf",
+    "product_manager_churn_analysis_report.pdf",
+    "product_manager_product_roadmap_q3-q4.pdf",
+    "product_manager_interviews_with_power_users.pdf"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "input_documents": [
+      "data_scientist_bert_pre-training_of_deep_bidirectional_transformers.pdf",
+      "data_scientist_survey_of_text_summarization_techniques.pdf",
+      "data_scientist_scaling_laws_for_neural_language_models.pdf",
+      "data_scientist_fine-tuning_llms_for_summarization.pdf",
+      "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+      "data_scientist_instruction_tuning_and_rlhf.pdf",
+      "data_scientist_attention_is_all_you_need_(transformers).pdf"
+    ],
+    "persona": "Data Scientist",
+    "job_to_be_done": "Understand the architecture and training process of large language models for text summarization.",
+    "processing_timestamp": "2025-07-21T09:02:00Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Survey of Text Summarization Techniques",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Deploying LLMs at Scale",
+      "importance_rank": 0.94
+    },
+    {
+      "document": "data_scientist_instruction_tuning_and_rlhf.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Instruction Tuning and RLHF",
+      "importance_rank": 0.94
+    },
+    {
+      "document": "data_scientist_instruction_tuning_and_rlhf.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: BERT: Pre-training of Deep Bidirectional Transformers",
+      "importance_rank": 0.92
+    },
+    {
+      "document": "data_scientist_bert_pre-training_of_deep_bidirectional_transformers.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: BERT: Pre-training of Deep Bidirectional Transformers",
+      "importance_rank": 0.89
+    },
+    {
+      "document": "data_scientist_survey_of_text_summarization_techniques.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Fine-Tuning LLMs for Summarization",
+      "importance_rank": 0.89
+    },
+    {
+      "document": "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Challenges in Factual Consistency",
+      "importance_rank": 0.83
+    },
+    {
+      "document": "data_scientist_bert_pre-training_of_deep_bidirectional_transformers.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Attention Is All You Need (Transformers)",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "data_scientist_scaling_laws_for_neural_language_models.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Scaling Laws for Neural Language Models",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "data_scientist_attention_is_all_you_need_(transformers).pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Fine-Tuning LLMs for Summarization",
+      "importance_rank": 0.77
+    },
+    {
+      "document": "data_scientist_fine-tuning_llms_for_summarization.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Fine-Tuning LLMs for Summarization",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "data_scientist_survey_of_text_summarization_techniques.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Fine-Tuning LLMs for Summarization",
+      "importance_rank": 0.73
+    },
+    {
+      "document": "data_scientist_scaling_laws_for_neural_language_models.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Challenges in Factual Consistency",
+      "importance_rank": 0.73
+    },
+    {
+      "document": "data_scientist_fine-tuning_llms_for_summarization.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Scaling Laws for Neural Language Models",
+      "importance_rank": 0.7
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "data_scientist_instruction_tuning_and_rlhf.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Instruction Tuning and RLHF",
+      "relevance_score": 0.9
+    },
+    {
+      "document": "data_scientist_survey_of_text_summarization_techniques.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Fine-Tuning LLMs for Summarization",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Survey of Text Summarization Techniques",
+      "relevance_score": 0.86
+    },
+    {
+      "document": "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Deploying LLMs at Scale",
+      "relevance_score": 0.85
+    },
+    {
+      "document": "data_scientist_fine-tuning_llms_for_summarization.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Scaling Laws for Neural Language Models",
+      "relevance_score": 0.83
+    },
+    {
+      "document": "data_scientist_evaluation_metrics_for_summarization_(rouge).pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Challenges in Factual Consistency",
+      "relevance_score": 0.83
+    },
+    {
+      "document": "data_scientist_scaling_laws_for_neural_language_models.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Scaling Laws for Neural Language Models",
+      "relevance_score": 0.8
+    }
+  ]
+}

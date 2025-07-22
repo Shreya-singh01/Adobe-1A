@@ -1,0 +1,15 @@
+{
+  "persona": "UX Designer",
+  "job_to_be_done": "Analyze user session recordings and usability test results to identify pain points in a mobile app\u2019s checkout flow.",
+  "documents": [
+    "ux_designer_user_personas_and_scenarios.pdf",
+    "ux_designer_customer_feedback_from_app_store_reviews.pdf",
+    "ux_designer_usability_test_report_checkout_flow.pdf",
+    "ux_designer_app_analytics_checkout_funnel_drop-off.pdf",
+    "ux_designer_analysis_of_user_session_recordings.pdf",
+    "ux_designer_ab_test_results_for_cta_buttons.pdf",
+    "ux_designer_wireframes_for_proposed_redesign.pdf",
+    "ux_designer_heuristic_evaluation_of_ui_components.pdf",
+    "ux_designer_card_sorting_study_for_navigation.pdf"
+  ]
+}

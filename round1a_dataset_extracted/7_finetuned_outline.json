@@ -1,0 +1,325 @@
+{
+    "title": "Peer Review Framework for Predictive Analytics",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "MODEL REPORT:",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Typhoon impact model",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "August 2022",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Model Report:",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "This document summarises the documentation and the finding of the peer review of the trigger",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "used in OCHA\u2019s Philippines Anticipatory Action framework for typhoons. The impact prediction",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "and digital team, on behalf of the IFRC network and its partners. The model uses typhoon track",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "and rainfall forecasts to predict the percentage of houses that will be severely damaged per",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "before a typhoon hit, based on the predicted number of houses damaged in the regions of Bicol",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "2021.",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Intended Use",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Model Development",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Model Evaluation",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Specify how much variance in model performance is acceptable, i.e., with the model",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "on",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "better",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "than",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "the",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "how",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "much",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "over",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "/",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Operational Readiness",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Ethical Review",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "In the case of Typhoon Goni in 2020, the model did not predict an extreme event until only a few",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Missing Attributes",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "The implementation model mentions a priority list based on poverty, gender, and building material,",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "while the model uses poverty, hazard data, and building type where poverty is not disaggregated",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "unless it follows some national standard of income levels to estimate poverty lines.",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Lead Times",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Lead time is the length of time between when a forecast is output and the occurrence of the",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "shock that was forecasted. It is unclear the impact that forecast running time has on lead times",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "for implementation. In the case of Typhoon Ursula (Phanfone) in 2019, the trigger was reached",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "only 12 hours prior to landfall for which no humanitarian action could be planned.",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "operational impact of long lead times, especially with 100% weightage of model output",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "for trigger activation. The effect of different lead times is unclear for the implementation.",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Lack of Transparency",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "The model is open source and has undergone technical review but is missing some",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "documentation.",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "Systemic Bias",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "Systemic bias is the inherent tendency of a process to support specific outcomes. In this mode,",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "social vulnerability and poverty data are not substantially disaggregated. The move from 'common",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "dataset' to 'composite dataset' involved ranking of variables.",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "\u25cf",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Recommendation: Clarity, rationale and disaggregation of parameters like social",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "vulnerability and poverty would be beneficial. Clarity required in relative weights of",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "variables when ranking.",
+            "page": 5
+        }
+    ]
+}

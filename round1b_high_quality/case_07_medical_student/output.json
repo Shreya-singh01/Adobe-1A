@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "input_documents": [
+      "medical_student_managing_comorbidities_in_diabetes.pdf",
+      "medical_student_long-term_cardiovascular_outcomes.pdf",
+      "medical_student_ada_treatment_guidelines_2024.pdf",
+      "medical_student_pharmacokinetics_of_insulin_analogs.pdf",
+      "medical_student_new_drug_application_sglt2_inhibitors.pdf",
+      "medical_student_comparative_study_glp-1_vs_dpp-4.pdf",
+      "medical_student_telemedicine_in_chronic_care.pdf",
+      "medical_student_pediatric_diabetes_treatment.pdf",
+      "medical_student_phase_iii_clinical_trial_metformin_efficacy.pdf",
+      "medical_student_patient_lifestyle_intervention_programs.pdf"
+    ],
+    "persona": "Medical Student",
+    "job_to_be_done": "Summarize treatment options for type 2 diabetes from clinical trial reports.",
+    "processing_timestamp": "2025-07-21T09:02:00Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "medical_student_managing_comorbidities_in_diabetes.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Pharmacokinetics of Insulin Analogs",
+      "importance_rank": 0.96
+    },
+    {
+      "document": "medical_student_phase_iii_clinical_trial_metformin_efficacy.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Long-term Cardiovascular Outcomes",
+      "importance_rank": 0.95
+    },
+    {
+      "document": "medical_student_long-term_cardiovascular_outcomes.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Comparative Study: GLP-1 vs DPP-4",
+      "importance_rank": 0.94
+    },
+    {
+      "document": "medical_student_comparative_study_glp-1_vs_dpp-4.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Comparative Study: GLP-1 vs DPP-4",
+      "importance_rank": 0.94
+    },
+    {
+      "document": "medical_student_patient_lifestyle_intervention_programs.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Telemedicine in Chronic Care",
+      "importance_rank": 0.92
+    },
+    {
+      "document": "medical_student_managing_comorbidities_in_diabetes.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Pediatric Diabetes Treatment",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "medical_student_comparative_study_glp-1_vs_dpp-4.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Telemedicine in Chronic Care",
+      "importance_rank": 0.88
+    },
+    {
+      "document": "medical_student_phase_iii_clinical_trial_metformin_efficacy.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Patient Lifestyle Intervention Programs",
+      "importance_rank": 0.81
+    },
+    {
+      "document": "medical_student_phase_iii_clinical_trial_metformin_efficacy.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Pharmacokinetics of Insulin Analogs",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "medical_student_new_drug_application_sglt2_inhibitors.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Comparative Study: GLP-1 vs DPP-4",
+      "importance_rank": 0.75
+    },
+    {
+      "document": "medical_student_pediatric_diabetes_treatment.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Telemedicine in Chronic Care",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "medical_student_patient_lifestyle_intervention_programs.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Telemedicine in Chronic Care",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "medical_student_ada_treatment_guidelines_2024.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: New Drug Application: SGLT2 Inhibitors",
+      "importance_rank": 0.71
+    },
+    {
+      "document": "medical_student_telemedicine_in_chronic_care.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Phase III Clinical Trial: Metformin Efficacy",
+      "importance_rank": 0.71
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "medical_student_phase_iii_clinical_trial_metformin_efficacy.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Pharmacokinetics of Insulin Analogs",
+      "relevance_score": 0.96
+    },
+    {
+      "document": "medical_student_comparative_study_glp-1_vs_dpp-4.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Comparative Study",
+      "relevance_score": 0.91
+    },
+    {
+      "document": "medical_student_new_drug_application_sglt2_inhibitors.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Comparative Study",
+      "relevance_score": 0.9
+    },
+    {
+      "document": "medical_student_comparative_study_glp-1_vs_dpp-4.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Telemedicine in Chronic Care",
+      "relevance_score": 0.88
+    },
+    {
+      "document": "medical_student_patient_lifestyle_intervention_programs.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Telemedicine in Chronic Care",
+      "relevance_score": 0.84
+    },
+    {
+      "document": "medical_student_managing_comorbidities_in_diabetes.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Pharmacokinetics of Insulin Analogs",
+      "relevance_score": 0.81
+    },
+    {
+      "document": "medical_student_ada_treatment_guidelines_2024.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into New Drug Application",
+      "relevance_score": 0.8
+    }
+  ]
+}

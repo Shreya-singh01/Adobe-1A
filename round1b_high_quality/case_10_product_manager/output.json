@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "input_documents": [
+      "product_manager_user_journey_analytics_for_onboarding.pdf",
+      "product_manager_usability_testing_feedback_compilation.pdf",
+      "product_manager_annual_user_satisfaction_survey_results.pdf",
+      "product_manager_q2_customer_support_ticket_analysis.pdf",
+      "product_manager_competitive_feature_matrix.pdf",
+      "product_manager_churn_analysis_report.pdf",
+      "product_manager_product_roadmap_q3-q4.pdf",
+      "product_manager_interviews_with_power_users.pdf"
+    ],
+    "persona": "Product Manager for a SaaS tool",
+    "job_to_be_done": "Gather user feedback and feature requests from customer support tickets and survey results.",
+    "processing_timestamp": "2025-07-21T09:02:02Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "product_manager_competitive_feature_matrix.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Usability Testing Feedback Compilation",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "product_manager_annual_user_satisfaction_survey_results.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Product Roadmap Q3-Q4",
+      "importance_rank": 0.92
+    },
+    {
+      "document": "product_manager_user_journey_analytics_for_onboarding.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Churn Analysis Report",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "product_manager_churn_analysis_report.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Interviews with Power Users",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "product_manager_user_journey_analytics_for_onboarding.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Product Roadmap Q3-Q4",
+      "importance_rank": 0.88
+    },
+    {
+      "document": "product_manager_churn_analysis_report.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Beta Program Feedback Summary",
+      "importance_rank": 0.86
+    },
+    {
+      "document": "product_manager_usability_testing_feedback_compilation.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Product Roadmap Q3-Q4",
+      "importance_rank": 0.85
+    },
+    {
+      "document": "product_manager_interviews_with_power_users.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Churn Analysis Report",
+      "importance_rank": 0.85
+    },
+    {
+      "document": "product_manager_annual_user_satisfaction_survey_results.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Q2 Customer Support Ticket Analysis",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "product_manager_user_journey_analytics_for_onboarding.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Competitive Feature Matrix",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "product_manager_product_roadmap_q3-q4.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Beta Program Feedback Summary",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "product_manager_q2_customer_support_ticket_analysis.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Q2 Customer Support Ticket Analysis",
+      "importance_rank": 0.72
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "product_manager_product_roadmap_q3-q4.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Beta Program Feedback Summary",
+      "relevance_score": 0.95
+    },
+    {
+      "document": "product_manager_user_journey_analytics_for_onboarding.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Competitive Feature Matrix",
+      "relevance_score": 0.89
+    },
+    {
+      "document": "product_manager_annual_user_satisfaction_survey_results.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Q2 Customer Support Ticket Analysis",
+      "relevance_score": 0.85
+    },
+    {
+      "document": "product_manager_usability_testing_feedback_compilation.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Product Roadmap Q3-Q4",
+      "relevance_score": 0.83
+    },
+    {
+      "document": "product_manager_q2_customer_support_ticket_analysis.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Q2 Customer Support Ticket Analysis",
+      "relevance_score": 0.81
+    },
+    {
+      "document": "product_manager_churn_analysis_report.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Interviews with Power Users",
+      "relevance_score": 0.81
+    }
+  ]
+}

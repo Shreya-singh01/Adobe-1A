@@ -1,0 +1,15 @@
+{
+  "persona": "Chef and Restaurant Owner",
+  "job_to_be_done": "Develop a new seasonal menu based on supplier ingredient lists and current culinary trends.",
+  "documents": [
+    "chef_sourcing_from_local_farms.pdf",
+    "chef_customer_feedback_on_previous_menus.pdf",
+    "chef_modernist_cuisine_techniques.pdf",
+    "chef_culinary_trends_report_fermentation.pdf",
+    "chef_competitor_menu_analysis_fine_dining.pdf",
+    "chef_plant-based_menu_innovations.pdf",
+    "chef_wine_pairing_guide_for_autumn_dishes.pdf",
+    "chef_haccp_plan_for_kitchen_safety.pdf",
+    "chef_food_costing_and_recipe_management.pdf"
+  ]
+}

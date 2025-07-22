@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "input_documents": [
+      "chef_sourcing_from_local_farms.pdf",
+      "chef_customer_feedback_on_previous_menus.pdf",
+      "chef_modernist_cuisine_techniques.pdf",
+      "chef_culinary_trends_report_fermentation.pdf",
+      "chef_competitor_menu_analysis_fine_dining.pdf",
+      "chef_plant-based_menu_innovations.pdf",
+      "chef_wine_pairing_guide_for_autumn_dishes.pdf",
+      "chef_haccp_plan_for_kitchen_safety.pdf",
+      "chef_food_costing_and_recipe_management.pdf"
+    ],
+    "persona": "Chef and Restaurant Owner",
+    "job_to_be_done": "Develop a new seasonal menu based on supplier ingredient lists and current culinary trends.",
+    "processing_timestamp": "2025-07-21T09:02:06Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "chef_sourcing_from_local_farms.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Modernist Cuisine Techniques",
+      "importance_rank": 0.9
+    },
+    {
+      "document": "chef_modernist_cuisine_techniques.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Wine Pairing Guide for Autumn Dishes",
+      "importance_rank": 0.89
+    },
+    {
+      "document": "chef_competitor_menu_analysis_fine_dining.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Plant-Based Menu Innovations",
+      "importance_rank": 0.87
+    },
+    {
+      "document": "chef_wine_pairing_guide_for_autumn_dishes.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Plant-Based Menu Innovations",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "chef_culinary_trends_report_fermentation.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Competitor Menu Analysis: Fine Dining",
+      "importance_rank": 0.77
+    },
+    {
+      "document": "chef_food_costing_and_recipe_management.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Culinary Trends Report: Fermentation",
+      "importance_rank": 0.77
+    },
+    {
+      "document": "chef_wine_pairing_guide_for_autumn_dishes.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Culinary Trends Report: Fermentation",
+      "importance_rank": 0.76
+    },
+    {
+      "document": "chef_haccp_plan_for_kitchen_safety.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Fall Seasonal Ingredients from Suppliers",
+      "importance_rank": 0.76
+    },
+    {
+      "document": "chef_sourcing_from_local_farms.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Customer Feedback on Previous Menus",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "chef_wine_pairing_guide_for_autumn_dishes.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Food Costing and Recipe Management",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "chef_customer_feedback_on_previous_menus.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Fall Seasonal Ingredients from Suppliers",
+      "importance_rank": 0.72
+    },
+    {
+      "document": "chef_culinary_trends_report_fermentation.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Culinary Trends Report: Fermentation",
+      "importance_rank": 0.72
+    },
+    {
+      "document": "chef_culinary_trends_report_fermentation.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Competitor Menu Analysis: Fine Dining",
+      "importance_rank": 0.7
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "chef_culinary_trends_report_fermentation.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Competitor Menu Analysis",
+      "relevance_score": 0.98
+    },
+    {
+      "document": "chef_food_costing_and_recipe_management.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Culinary Trends Report",
+      "relevance_score": 0.98
+    },
+    {
+      "document": "chef_wine_pairing_guide_for_autumn_dishes.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Plant-Based Menu Innovations",
+      "relevance_score": 0.92
+    },
+    {
+      "document": "chef_customer_feedback_on_previous_menus.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Fall Seasonal Ingredients from Suppliers",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "chef_modernist_cuisine_techniques.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Wine Pairing Guide for Autumn Dishes",
+      "relevance_score": 0.84
+    },
+    {
+      "document": "chef_haccp_plan_for_kitchen_safety.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Fall Seasonal Ingredients from Suppliers",
+      "relevance_score": 0.84
+    },
+    {
+      "document": "chef_sourcing_from_local_farms.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Customer Feedback on Previous Menus",
+      "relevance_score": 0.83
+    }
+  ]
+}

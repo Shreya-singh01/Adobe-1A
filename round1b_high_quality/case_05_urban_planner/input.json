@@ -1,0 +1,16 @@
+{
+  "persona": "Urban Planner",
+  "job_to_be_done": "Assess the impact of new zoning regulations on traffic flow and public transport usage.",
+  "documents": [
+    "urban_planner_gis_data_on_population_density.pdf",
+    "urban_planner_case_studies_in_mixed-use_development.pdf",
+    "urban_planner_proposed_zoning_code_amendments.pdf",
+    "urban_planner_parking_strategy_review.pdf",
+    "urban_planner_traffic_impact_simulation_study.pdf",
+    "urban_planner_community_feedback_report.pdf",
+    "urban_planner_public_transportation_ridership_forecast.pdf",
+    "urban_planner_infrastructure_capacity_analysis.pdf",
+    "urban_planner_economic_impact_on_local_businesses.pdf",
+    "urban_planner_environmental_impact_statement.pdf"
+  ]
+}

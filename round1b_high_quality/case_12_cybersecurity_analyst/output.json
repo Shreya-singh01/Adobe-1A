@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "input_documents": [
+      "cybersecurity_analyst_owasp_top_10_for_cloud-native_apps.pdf",
+      "cybersecurity_analyst_identity_and_access_management_(iam)_policies.pdf",
+      "cybersecurity_analyst_network_security_in_a_microservices_architecture.pdf",
+      "cybersecurity_analyst_supply_chain_security_(sbom).pdf",
+      "cybersecurity_analyst_kubernetes_security_best_practices.pdf",
+      "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "cybersecurity_analyst_log4j_vulnerability_analysis.pdf"
+    ],
+    "persona": "Cybersecurity Analyst",
+    "job_to_be_done": "Identify common attack vectors and mitigation strategies for cloud-native applications.",
+    "processing_timestamp": "2025-07-21T09:02:04Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Kubernetes Security Best Practices",
+      "importance_rank": 0.93
+    },
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Network Security in a Microservices Architecture",
+      "importance_rank": 0.93
+    },
+    {
+      "document": "cybersecurity_analyst_owasp_top_10_for_cloud-native_apps.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Incident Response for Cloud Environments",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "cybersecurity_analyst_supply_chain_security_(sbom).pdf",
+      "page_number": 2,
+      "section_title": "Section 2: DevSecOps Implementation Guide",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Log4j Vulnerability Analysis",
+      "importance_rank": 0.88
+    },
+    {
+      "document": "cybersecurity_analyst_identity_and_access_management_(iam)_policies.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Network Security in a Microservices Architecture",
+      "importance_rank": 0.81
+    },
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Kubernetes Security Best Practices",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "cybersecurity_analyst_network_security_in_a_microservices_architecture.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Supply Chain Security (SBOM)",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "cybersecurity_analyst_log4j_vulnerability_analysis.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Network Security in a Microservices Architecture",
+      "importance_rank": 0.78
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "cybersecurity_analyst_supply_chain_security_(sbom).pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into DevSecOps Implementation Guide",
+      "relevance_score": 0.96
+    },
+    {
+      "document": "cybersecurity_analyst_owasp_top_10_for_cloud-native_apps.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Incident Response for Cloud Environments",
+      "relevance_score": 0.95
+    },
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Log4j Vulnerability Analysis",
+      "relevance_score": 0.94
+    },
+    {
+      "document": "cybersecurity_analyst_log4j_vulnerability_analysis.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Network Security in a Microservices Architecture",
+      "relevance_score": 0.9
+    },
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Kubernetes Security Best Practices",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Network Security in a Microservices Architecture",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "cybersecurity_analyst_devsecops_implementation_guide.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Kubernetes Security Best Practices",
+      "relevance_score": 0.8
+    }
+  ]
+}

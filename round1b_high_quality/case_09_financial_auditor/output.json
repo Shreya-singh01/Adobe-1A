@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "input_documents": [
+      "financial_auditor_valuation_of_complex_derivatives.pdf",
+      "financial_auditor_regulatory_compliance_report.pdf",
+      "financial_auditor_risk_management_and_disclosure_requirements.pdf",
+      "financial_auditor_audit_checklist_for_financial_instruments.pdf",
+      "financial_auditor_ifrs_9_financial_instruments_full_standard.pdf",
+      "financial_auditor_analysis_of_a_bank\u2019s_annual_report.pdf",
+      "financial_auditor_case_study_ifrs_9_transition.pdf",
+      "financial_auditor_internal_controls_for_financial_reporting.pdf"
+    ],
+    "persona": "Financial Auditor",
+    "job_to_be_done": "Verify compliance with IFRS 9 in a bank\u2019s annual financial statements.",
+    "processing_timestamp": "2025-07-21T09:02:01Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "financial_auditor_audit_checklist_for_financial_instruments.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Case Study: IFRS 9 Transition",
+      "importance_rank": 0.98
+    },
+    {
+      "document": "financial_auditor_analysis_of_a_bank\u2019s_annual_report.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Risk Management and Disclosure Requirements",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "financial_auditor_valuation_of_complex_derivatives.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Hedge Accounting Implementation Guide",
+      "importance_rank": 0.96
+    },
+    {
+      "document": "financial_auditor_ifrs_9_financial_instruments_full_standard.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Analysis of a Bank\u2019s Annual Report",
+      "importance_rank": 0.92
+    },
+    {
+      "document": "financial_auditor_case_study_ifrs_9_transition.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Regulatory Compliance Report",
+      "importance_rank": 0.92
+    },
+    {
+      "document": "financial_auditor_audit_checklist_for_financial_instruments.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Internal Controls for Financial Reporting",
+      "importance_rank": 0.91
+    },
+    {
+      "document": "financial_auditor_audit_checklist_for_financial_instruments.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Internal Controls for Financial Reporting",
+      "importance_rank": 0.89
+    },
+    {
+      "document": "financial_auditor_risk_management_and_disclosure_requirements.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Audit Checklist for Financial Instruments",
+      "importance_rank": 0.85
+    },
+    {
+      "document": "financial_auditor_case_study_ifrs_9_transition.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Audit Checklist for Financial Instruments",
+      "importance_rank": 0.85
+    },
+    {
+      "document": "financial_auditor_analysis_of_a_bank\u2019s_annual_report.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Hedge Accounting Implementation Guide",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "financial_auditor_ifrs_9_financial_instruments_full_standard.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Audit Checklist for Financial Instruments",
+      "importance_rank": 0.76
+    },
+    {
+      "document": "financial_auditor_risk_management_and_disclosure_requirements.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Risk Management and Disclosure Requirements",
+      "importance_rank": 0.74
+    },
+    {
+      "document": "financial_auditor_valuation_of_complex_derivatives.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Case Study: IFRS 9 Transition",
+      "importance_rank": 0.73
+    },
+    {
+      "document": "financial_auditor_valuation_of_complex_derivatives.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: IFRS 9 Financial Instruments: Full Standard",
+      "importance_rank": 0.7
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "financial_auditor_audit_checklist_for_financial_instruments.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Internal Controls for Financial Reporting",
+      "relevance_score": 0.96
+    },
+    {
+      "document": "financial_auditor_audit_checklist_for_financial_instruments.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Internal Controls for Financial Reporting",
+      "relevance_score": 0.96
+    },
+    {
+      "document": "financial_auditor_audit_checklist_for_financial_instruments.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Case Study",
+      "relevance_score": 0.91
+    },
+    {
+      "document": "financial_auditor_ifrs_9_financial_instruments_full_standard.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Analysis of a Banks Annual Report",
+      "relevance_score": 0.91
+    },
+    {
+      "document": "financial_auditor_analysis_of_a_bank\u2019s_annual_report.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Hedge Accounting Implementation Guide",
+      "relevance_score": 0.9
+    },
+    {
+      "document": "financial_auditor_case_study_ifrs_9_transition.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Audit Checklist for Financial Instruments",
+      "relevance_score": 0.9
+    },
+    {
+      "document": "financial_auditor_ifrs_9_financial_instruments_full_standard.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Audit Checklist for Financial Instruments",
+      "relevance_score": 0.85
+    },
+    {
+      "document": "financial_auditor_case_study_ifrs_9_transition.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Regulatory Compliance Report",
+      "relevance_score": 0.84
+    },
+    {
+      "document": "financial_auditor_valuation_of_complex_derivatives.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into IFRS 9 Financial Instruments",
+      "relevance_score": 0.81
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "input_documents": [
+      "environmental_consultant_noise_impact_assessment_report.pdf",
+      "environmental_consultant_avian_and_bat_impact_study.pdf",
+      "environmental_consultant_renewable_energy_policy_and_subsidies.pdf",
+      "environmental_consultant_wind_farm_project_proposal_details.pdf",
+      "environmental_consultant_local_ecosystem_and_biodiversity_report.pdf",
+      "environmental_consultant_carbon_footprint_analysis.pdf",
+      "environmental_consultant_public_consultation_feedback_summary.pdf"
+    ],
+    "persona": "Environmental Consultant",
+    "job_to_be_done": "Prepare an environmental impact assessment for a proposed wind farm project.",
+    "processing_timestamp": "2025-07-21T09:02:04Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "environmental_consultant_wind_farm_project_proposal_details.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Local Ecosystem and Biodiversity Report",
+      "importance_rank": 0.97
+    },
+    {
+      "document": "environmental_consultant_renewable_energy_policy_and_subsidies.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Carbon Footprint Analysis",
+      "importance_rank": 0.96
+    },
+    {
+      "document": "environmental_consultant_noise_impact_assessment_report.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Renewable Energy Policy and Subsidies",
+      "importance_rank": 0.87
+    },
+    {
+      "document": "environmental_consultant_wind_farm_project_proposal_details.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Renewable Energy Policy and Subsidies",
+      "importance_rank": 0.83
+    },
+    {
+      "document": "environmental_consultant_wind_farm_project_proposal_details.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Carbon Footprint Analysis",
+      "importance_rank": 0.8
+    },
+    {
+      "document": "environmental_consultant_carbon_footprint_analysis.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Wind Farm Project Proposal Details",
+      "importance_rank": 0.8
+    },
+    {
+      "document": "environmental_consultant_renewable_energy_policy_and_subsidies.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Case Study: Offshore Wind Farm",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "environmental_consultant_local_ecosystem_and_biodiversity_report.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Case Study: Offshore Wind Farm",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "environmental_consultant_renewable_energy_policy_and_subsidies.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Noise Impact Assessment Report",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "environmental_consultant_avian_and_bat_impact_study.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Carbon Footprint Analysis",
+      "importance_rank": 0.77
+    },
+    {
+      "document": "environmental_consultant_public_consultation_feedback_summary.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Noise Impact Assessment Report",
+      "importance_rank": 0.71
+    },
+    {
+      "document": "environmental_consultant_public_consultation_feedback_summary.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Public Consultation Feedback Summary",
+      "importance_rank": 0.7
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "environmental_consultant_noise_impact_assessment_report.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Renewable Energy Policy and Subsidies",
+      "relevance_score": 0.98
+    },
+    {
+      "document": "environmental_consultant_renewable_energy_policy_and_subsidies.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Case Study",
+      "relevance_score": 0.93
+    },
+    {
+      "document": "environmental_consultant_wind_farm_project_proposal_details.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Renewable Energy Policy and Subsidies",
+      "relevance_score": 0.93
+    },
+    {
+      "document": "environmental_consultant_wind_farm_project_proposal_details.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Carbon Footprint Analysis",
+      "relevance_score": 0.92
+    },
+    {
+      "document": "environmental_consultant_wind_farm_project_proposal_details.pdf",
+      "page_number": 3,
+      "refined_text": "This section provides critical insights into Local Ecosystem and Biodiversity Report",
+      "relevance_score": 0.91
+    },
+    {
+      "document": "environmental_consultant_local_ecosystem_and_biodiversity_report.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Case Study",
+      "relevance_score": 0.81
+    }
+  ]
+}

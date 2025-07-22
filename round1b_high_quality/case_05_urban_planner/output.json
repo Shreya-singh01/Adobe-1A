@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "input_documents": [
+      "urban_planner_gis_data_on_population_density.pdf",
+      "urban_planner_case_studies_in_mixed-use_development.pdf",
+      "urban_planner_proposed_zoning_code_amendments.pdf",
+      "urban_planner_parking_strategy_review.pdf",
+      "urban_planner_traffic_impact_simulation_study.pdf",
+      "urban_planner_community_feedback_report.pdf",
+      "urban_planner_public_transportation_ridership_forecast.pdf",
+      "urban_planner_infrastructure_capacity_analysis.pdf",
+      "urban_planner_economic_impact_on_local_businesses.pdf",
+      "urban_planner_environmental_impact_statement.pdf"
+    ],
+    "persona": "Urban Planner",
+    "job_to_be_done": "Assess the impact of new zoning regulations on traffic flow and public transport usage.",
+    "processing_timestamp": "2025-07-21T09:01:58Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "urban_planner_parking_strategy_review.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: GIS Data on Population Density",
+      "importance_rank": 0.98
+    },
+    {
+      "document": "urban_planner_environmental_impact_statement.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Parking Strategy Review",
+      "importance_rank": 0.96
+    },
+    {
+      "document": "urban_planner_public_transportation_ridership_forecast.pdf",
+      "page_number": 5,
+      "section_title": "Section 5: Parking Strategy Review",
+      "importance_rank": 0.86
+    },
+    {
+      "document": "urban_planner_public_transportation_ridership_forecast.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Proposed Zoning Code Amendments",
+      "importance_rank": 0.8
+    },
+    {
+      "document": "urban_planner_parking_strategy_review.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Community Feedback Report",
+      "importance_rank": 0.79
+    },
+    {
+      "document": "urban_planner_proposed_zoning_code_amendments.pdf",
+      "page_number": 3,
+      "section_title": "Section 3: Traffic Impact Simulation Study",
+      "importance_rank": 0.78
+    },
+    {
+      "document": "urban_planner_gis_data_on_population_density.pdf",
+      "page_number": 1,
+      "section_title": "Section 1: Parking Strategy Review",
+      "importance_rank": 0.75
+    },
+    {
+      "document": "urban_planner_economic_impact_on_local_businesses.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Community Feedback Report",
+      "importance_rank": 0.75
+    },
+    {
+      "document": "urban_planner_community_feedback_report.pdf",
+      "page_number": 2,
+      "section_title": "Section 2: Economic Impact on Local Businesses",
+      "importance_rank": 0.71
+    },
+    {
+      "document": "urban_planner_community_feedback_report.pdf",
+      "page_number": 4,
+      "section_title": "Section 4: Traffic Impact Simulation Study",
+      "importance_rank": 0.71
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "urban_planner_gis_data_on_population_density.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Parking Strategy Review",
+      "relevance_score": 0.98
+    },
+    {
+      "document": "urban_planner_parking_strategy_review.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into GIS Data on Population Density",
+      "relevance_score": 0.97
+    },
+    {
+      "document": "urban_planner_community_feedback_report.pdf",
+      "page_number": 4,
+      "refined_text": "This section provides critical insights into Traffic Impact Simulation Study",
+      "relevance_score": 0.89
+    },
+    {
+      "document": "urban_planner_environmental_impact_statement.pdf",
+      "page_number": 1,
+      "refined_text": "This section provides critical insights into Parking Strategy Review",
+      "relevance_score": 0.89
+    },
+    {
+      "document": "urban_planner_public_transportation_ridership_forecast.pdf",
+      "page_number": 5,
+      "refined_text": "This section provides critical insights into Parking Strategy Review",
+      "relevance_score": 0.87
+    },
+    {
+      "document": "urban_planner_public_transportation_ridership_forecast.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Proposed Zoning Code Amendments",
+      "relevance_score": 0.86
+    },
+    {
+      "document": "urban_planner_economic_impact_on_local_businesses.pdf",
+      "page_number": 2,
+      "refined_text": "This section provides critical insights into Community Feedback Report",
+      "relevance_score": 0.81
+    }
+  ]
+}

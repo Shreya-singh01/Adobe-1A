@@ -1,0 +1,16 @@
+{
+  "persona": "Investment Analyst",
+  "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning of tech companies.",
+  "documents": [
+    "investment_analyst_annual_financial_report.pdf",
+    "investment_analyst_sec_10-k_filing.pdf",
+    "investment_analyst_market_research_report_saas.pdf",
+    "investment_analyst_analyst_briefing_on_ai_trends.pdf",
+    "investment_analyst_quarterly_earnings_call_transcript.pdf",
+    "investment_analyst_competitor_analysis_cloud_computing.pdf",
+    "investment_analyst_emerging_markets_tech_growth.pdf",
+    "investment_analyst_r&d_investment_strategy.pdf",
+    "investment_analyst_consumer_hardware_sales_data.pdf",
+    "investment_analyst_intellectual_property_portfolio.pdf"
+  ]
+}
